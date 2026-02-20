@@ -10,14 +10,14 @@
     <itunes:explicit>no</itunes:explicit>
     <link>https://vencac.github.io/podcast-feed</link>
     <atom:link href="https://vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 20 Feb 2026 05:36:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 18:31:00 +0000</lastBuildDate>
     <item>
       <title>My Personal News Briefing — February 20, 2026</title>
-      <description>Today, we're talking about a world on the brink, as President Trump's 'Board of Peace' takes shape, even as an ultimatum to Iran ratchets up tensions in the Middle East.</description>
+      <description>The US Supreme Court just dropped a bombshell, potentially forcing the government to refund over 175 billion dollars in duties, a move that could reshape global trade.</description>
       <pubDate>Fri, 20 Feb 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://vencac.github.io/podcast-feed/audio/podcast_2026-02-20.mp3" length="7921296" type="audio/mpeg"/>
+      <enclosure url="https://vencac.github.io/podcast-feed/audio/podcast_2026-02-20.mp3" length="18837164" type="audio/mpeg"/>
       <guid isPermaLink="true">https://vencac.github.io/podcast-feed/audio/podcast_2026-02-20.mp3</guid>
-      <itunes:duration>495</itunes:duration>
+      <itunes:duration>1177</itunes:duration>
     </item>
     <item>
       <title>My Personal News Briefing — February 19, 2026</title>
