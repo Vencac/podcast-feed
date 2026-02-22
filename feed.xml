@@ -3,37 +3,46 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
      xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My Personal News Briefing</title>
+    <title>The VENCAst</title>
     <description>Daily AI-curated news from multiple sources, compiled and narrated by AI.</description>
     <language>en</language>
     <itunes:author>News Pipeline</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <link>https://vencac.github.io/podcast-feed</link>
-    <atom:link href="https://vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 21 Feb 2026 07:00:42 +0000</lastBuildDate>
+    <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
+    <image>
+      <url>https://Vencac.github.io/podcast-feed/cover.jpg</url>
+      <title>The VENCAst</title>
+      <link>https://Vencac.github.io/podcast-feed</link>
+    </image>
+    <link>https://Vencac.github.io/podcast-feed</link>
+    <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Sun, 22 Feb 2026 04:08:22 +0000</lastBuildDate>
     <item>
-      <title>My Personal News Briefing — February 21, 2026</title>
+      <title>The VENCAst — February 22, 2026</title>
+      <description>The world's businesses are bracing for impact after a US Supreme Court decision sparked an immediate jump in global import tariffs from ten to fifteen percent.</description>
+      <pubDate>Sun, 22 Feb 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-02-22.mp3" length="18014924" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-02-22.mp3</guid>
+      <itunes:duration>1125</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
+    </item>
+    <item>
+      <title>The VENCAst — February 21, 2026</title>
       <description>The US Supreme Court struck down a president's sweeping tariffs as illegal, but President Trump had a new plan ready to go, literally minutes later, signing an executive order for new global levies under different legal grounds. Talk about a swift co...</description>
       <pubDate>Sat, 21 Feb 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://vencac.github.io/podcast-feed/audio/podcast_2026-02-21.mp3" length="9128736" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://vencac.github.io/podcast-feed/audio/podcast_2026-02-21.mp3</guid>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-02-21.mp3" length="9128736" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-02-21.mp3</guid>
       <itunes:duration>570</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
     </item>
     <item>
-      <title>My Personal News Briefing — February 20, 2026</title>
+      <title>The VENCAst — February 20, 2026</title>
       <description>The US Supreme Court just dropped a bombshell, potentially forcing the government to refund over 175 billion dollars in duties, a move that could reshape global trade.</description>
       <pubDate>Fri, 20 Feb 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://vencac.github.io/podcast-feed/audio/podcast_2026-02-20.mp3" length="18837164" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://vencac.github.io/podcast-feed/audio/podcast_2026-02-20.mp3</guid>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-02-20.mp3" length="18837164" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-02-20.mp3</guid>
       <itunes:duration>1177</itunes:duration>
-    </item>
-    <item>
-      <title>My Personal News Briefing — February 19, 2026</title>
-      <description>The United States is reportedly moving a significant military presence towards Iran, and there are whispers that President Trump might be considering strikes as early as this weekend.</description>
-      <pubDate>Thu, 19 Feb 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://vencac.github.io/podcast-feed/audio/podcast_2026-02-19.mp3" length="29189804" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://vencac.github.io/podcast-feed/audio/podcast_2026-02-19.mp3</guid>
-      <itunes:duration>1824</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
     </item>
   </channel>
 </rss>
