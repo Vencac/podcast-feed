@@ -16,7 +16,16 @@
     </image>
     <link>https://Vencac.github.io/podcast-feed</link>
     <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 22 Feb 2026 04:08:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 05:15:51 +0000</lastBuildDate>
+    <item>
+      <title>The VENCAst — February 23, 2026</title>
+      <description>Hey everyone, and welcome back to Informed &amp; Unfiltered, your weekly deep dive into the stories shaping our world. I’m your host, and I’m glad you’re joining me today, February 23rd, 2026, for a look at some truly significant developments.</description>
+      <pubDate>Mon, 23 Feb 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-02-23.mp3" length="18495404" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-02-23.mp3</guid>
+      <itunes:duration>1155</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
+    </item>
     <item>
       <title>The VENCAst — February 22, 2026</title>
       <description>The world's businesses are bracing for impact after a US Supreme Court decision sparked an immediate jump in global import tariffs from ten to fifteen percent.</description>
@@ -33,15 +42,6 @@
       <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-02-21.mp3" length="9128736" type="audio/mpeg"/>
       <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-02-21.mp3</guid>
       <itunes:duration>570</itunes:duration>
-      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
-    </item>
-    <item>
-      <title>The VENCAst — February 20, 2026</title>
-      <description>The US Supreme Court just dropped a bombshell, potentially forcing the government to refund over 175 billion dollars in duties, a move that could reshape global trade.</description>
-      <pubDate>Fri, 20 Feb 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-02-20.mp3" length="18837164" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-02-20.mp3</guid>
-      <itunes:duration>1177</itunes:duration>
       <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
     </item>
   </channel>
