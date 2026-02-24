@@ -16,14 +16,14 @@
     </image>
     <link>https://Vencac.github.io/podcast-feed</link>
     <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 24 Feb 2026 08:57:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Feb 2026 12:34:18 +0000</lastBuildDate>
     <item>
       <title>The VENCAst — February 24, 2026</title>
       <description>Today, we mark four years since a full-scale invasion reshaped Europe, and the fighting continues, with deep divisions even among allies.</description>
       <pubDate>Tue, 24 Feb 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-02-24.mp3" length="35758783" type="audio/mpeg"/>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-02-24.mp3" length="30491839" type="audio/mpeg"/>
       <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-02-24.mp3</guid>
-      <itunes:duration>2234</itunes:duration>
+      <itunes:duration>1905</itunes:duration>
       <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
     </item>
     <item>
