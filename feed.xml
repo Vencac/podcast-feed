@@ -16,7 +16,16 @@
     </image>
     <link>https://Vencac.github.io/podcast-feed</link>
     <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 23 Feb 2026 05:15:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Feb 2026 08:57:18 +0000</lastBuildDate>
+    <item>
+      <title>The VENCAst — February 24, 2026</title>
+      <description>Today, we mark four years since a full-scale invasion reshaped Europe, and the fighting continues, with deep divisions even among allies.</description>
+      <pubDate>Tue, 24 Feb 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-02-24.mp3" length="35758783" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-02-24.mp3</guid>
+      <itunes:duration>2234</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
+    </item>
     <item>
       <title>The VENCAst — February 23, 2026</title>
       <description>Hey everyone, and welcome back to Informed &amp; Unfiltered, your weekly deep dive into the stories shaping our world. I’m your host, and I’m glad you’re joining me today, February 23rd, 2026, for a look at some truly significant developments.</description>
@@ -33,15 +42,6 @@
       <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-02-22.mp3" length="18014924" type="audio/mpeg"/>
       <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-02-22.mp3</guid>
       <itunes:duration>1125</itunes:duration>
-      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
-    </item>
-    <item>
-      <title>The VENCAst — February 21, 2026</title>
-      <description>The US Supreme Court struck down a president's sweeping tariffs as illegal, but President Trump had a new plan ready to go, literally minutes later, signing an executive order for new global levies under different legal grounds. Talk about a swift co...</description>
-      <pubDate>Sat, 21 Feb 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-02-21.mp3" length="9128736" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-02-21.mp3</guid>
-      <itunes:duration>570</itunes:duration>
       <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
     </item>
   </channel>
