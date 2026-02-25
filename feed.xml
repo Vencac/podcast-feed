@@ -16,7 +16,16 @@
     </image>
     <link>https://Vencac.github.io/podcast-feed</link>
     <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 24 Feb 2026 12:34:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 04:14:23 +0000</lastBuildDate>
+    <item>
+      <title>The VENCAst — February 25, 2026</title>
+      <description>(Sound of gentle, futuristic chimes fading into background)</description>
+      <pubDate>Wed, 25 Feb 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-02-25.mp3" length="21284850" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-02-25.mp3</guid>
+      <itunes:duration>1330</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
+    </item>
     <item>
       <title>The VENCAst — February 24, 2026</title>
       <description>Today, we mark four years since a full-scale invasion reshaped Europe, and the fighting continues, with deep divisions even among allies.</description>
@@ -33,15 +42,6 @@
       <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-02-23.mp3" length="18495404" type="audio/mpeg"/>
       <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-02-23.mp3</guid>
       <itunes:duration>1155</itunes:duration>
-      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
-    </item>
-    <item>
-      <title>The VENCAst — February 22, 2026</title>
-      <description>The world's businesses are bracing for impact after a US Supreme Court decision sparked an immediate jump in global import tariffs from ten to fifteen percent.</description>
-      <pubDate>Sun, 22 Feb 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-02-22.mp3" length="18014924" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-02-22.mp3</guid>
-      <itunes:duration>1125</itunes:duration>
       <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
     </item>
   </channel>
