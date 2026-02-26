@@ -16,7 +16,16 @@
     </image>
     <link>https://Vencac.github.io/podcast-feed</link>
     <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 25 Feb 2026 04:14:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 04:15:18 +0000</lastBuildDate>
+    <item>
+      <title>The VENCAst — February 26, 2026</title>
+      <description>(Sound of a gentle digital chime, then upbeat, soft synth music fades in and out)</description>
+      <pubDate>Thu, 26 Feb 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-02-26.mp3" length="18644588" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-02-26.mp3</guid>
+      <itunes:duration>1165</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
+    </item>
     <item>
       <title>The VENCAst — February 25, 2026</title>
       <description>(Sound of gentle, futuristic chimes fading into background)</description>
@@ -33,15 +42,6 @@
       <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-02-24.mp3" length="30491839" type="audio/mpeg"/>
       <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-02-24.mp3</guid>
       <itunes:duration>1905</itunes:duration>
-      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
-    </item>
-    <item>
-      <title>The VENCAst — February 23, 2026</title>
-      <description>Hey everyone, and welcome back to Informed &amp; Unfiltered, your weekly deep dive into the stories shaping our world. I’m your host, and I’m glad you’re joining me today, February 23rd, 2026, for a look at some truly significant developments.</description>
-      <pubDate>Mon, 23 Feb 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-02-23.mp3" length="18495404" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-02-23.mp3</guid>
-      <itunes:duration>1155</itunes:duration>
       <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
     </item>
   </channel>
