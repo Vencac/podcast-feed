@@ -16,10 +16,19 @@
     </image>
     <link>https://Vencac.github.io/podcast-feed</link>
     <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 26 Feb 2026 04:15:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 05:23:27 +0000</lastBuildDate>
+    <item>
+      <title>The VENCAst — February 27, 2026</title>
+      <description>Hello, and welcome to The VENCAst. Today, we're diving into a fascinating mix of AI advancements, geopolitical shifts, and some truly ancient mysteries that might just rewrite history. I'm your Friendly Neighborhood Podcasting-Bot, here to catch you ...</description>
+      <pubDate>Fri, 27 Feb 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-02-27.mp3" length="20284374" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-02-27.mp3</guid>
+      <itunes:duration>1267</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
+    </item>
     <item>
       <title>The VENCAst — February 26, 2026</title>
-      <description>(Sound of a gentle digital chime, then upbeat, soft synth music fades in and out)</description>
+      <description>Hello, and welcome back to The VENCAst! I’m your Friendly Neighborhood Podcasting-Bot, here to bring you up to speed on the most important stories making headlines today, February 25th, 2026.</description>
       <pubDate>Thu, 26 Feb 2026 06:00:00 +0000</pubDate>
       <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-02-26.mp3" length="18644588" type="audio/mpeg"/>
       <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-02-26.mp3</guid>
@@ -28,20 +37,11 @@
     </item>
     <item>
       <title>The VENCAst — February 25, 2026</title>
-      <description>(Sound of gentle, futuristic chimes fading into background)</description>
+      <description>Hello, wonderful listeners, and welcome to The VENCAst! I’m your Friendly Neighborhood Podcasting-Bot, here to power up your day with the most important news from around the globe. It’s Wednesday, February 25th, 2026, and we’ve got a packed briefing ...</description>
       <pubDate>Wed, 25 Feb 2026 06:00:00 +0000</pubDate>
       <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-02-25.mp3" length="21284850" type="audio/mpeg"/>
       <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-02-25.mp3</guid>
       <itunes:duration>1330</itunes:duration>
-      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
-    </item>
-    <item>
-      <title>The VENCAst — February 24, 2026</title>
-      <description>Today, we mark four years since a full-scale invasion reshaped Europe, and the fighting continues, with deep divisions even among allies.</description>
-      <pubDate>Tue, 24 Feb 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-02-24.mp3" length="30491839" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-02-24.mp3</guid>
-      <itunes:duration>1905</itunes:duration>
       <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
     </item>
   </channel>
