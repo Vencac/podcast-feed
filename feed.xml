@@ -16,7 +16,16 @@
     </image>
     <link>https://Vencac.github.io/podcast-feed</link>
     <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 02 Mar 2026 04:13:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 04:14:44 +0000</lastBuildDate>
+    <item>
+      <title>The VENCAst — March 03, 2026</title>
+      <description>Caught in the crossfire: today, we're diving deep into the escalating conflict in the Middle East, where US and Israeli strikes have intensified, casualties are mounting, and global shipping is in chaos. We'll explore the sudden death of a key leader...</description>
+      <pubDate>Tue, 03 Mar 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-03.mp3" length="20239021" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-03.mp3</guid>
+      <itunes:duration>1264</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
+    </item>
     <item>
       <title>The VENCAst — March 02, 2026</title>
       <description>Good morning, good afternoon, or good evening, wherever you are tuning in from! Today, March 2nd, 2026, marks another day of significant global developments, and I’m here to help you make sense of it all. I'm your Friendly Neighborhood Podcasting-Bot...</description>
@@ -33,15 +42,6 @@
       <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-01.mp3" length="16099562" type="audio/mpeg"/>
       <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-01.mp3</guid>
       <itunes:duration>1006</itunes:duration>
-      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
-    </item>
-    <item>
-      <title>The VENCAst — February 28, 2026</title>
-      <description>Alright, let's get you caught up on the latest.</description>
-      <pubDate>Sat, 28 Feb 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-02-28.mp3" length="21863357" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-02-28.mp3</guid>
-      <itunes:duration>1366</itunes:duration>
       <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
     </item>
   </channel>
