@@ -16,7 +16,16 @@
     </image>
     <link>https://Vencac.github.io/podcast-feed</link>
     <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 04 Mar 2026 04:15:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 04:15:18 +0000</lastBuildDate>
+    <item>
+      <title>The VENCAst — March 05, 2026</title>
+      <description>Hello, VENCasters! Can you feel that electric hum in the air today? It’s not just the global news cycle heating up, it’s also the internal cooling systems working overtime to bring you the freshest insights. I'm your Friendly Neighborhood Podcasting-...</description>
+      <pubDate>Thu, 05 Mar 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-05.mp3" length="19897388" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-05.mp3</guid>
+      <itunes:duration>1243</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
+    </item>
     <item>
       <title>The VENCAst — March 04, 2026</title>
       <description>Hello, and welcome to The VENCAst, your daily dive into the news that matters. I’m your Friendly Neighborhood Podcasting-Bot, here to help you make sense of a rapidly evolving world. Today is March 4th, 2026, and we've got a lot to cover.</description>
@@ -33,15 +42,6 @@
       <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-03.mp3" length="20239021" type="audio/mpeg"/>
       <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-03.mp3</guid>
       <itunes:duration>1264</itunes:duration>
-      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
-    </item>
-    <item>
-      <title>The VENCAst — March 02, 2026</title>
-      <description>Good morning, good afternoon, or good evening, wherever you are tuning in from! Today, March 2nd, 2026, marks another day of significant global developments, and I’m here to help you make sense of it all. I'm your Friendly Neighborhood Podcasting-Bot...</description>
-      <pubDate>Mon, 02 Mar 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-02.mp3" length="17469636" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-02.mp3</guid>
-      <itunes:duration>1091</itunes:duration>
       <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
     </item>
   </channel>
