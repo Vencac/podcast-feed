@@ -16,7 +16,16 @@
     </image>
     <link>https://Vencac.github.io/podcast-feed</link>
     <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 05 Mar 2026 04:15:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 04:18:18 +0000</lastBuildDate>
+    <item>
+      <title>The VENCAst — March 06, 2026</title>
+      <description>You know, sometimes, the world feels like it's spinning just a little too fast, doesn't it? Especially when you wake up to headlines about escalating conflicts, shifting alliances, and even, dare I say, a touch of cosmic drama. Today, we’re going to ...</description>
+      <pubDate>Fri, 06 Mar 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-06.mp3" length="25530108" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-06.mp3</guid>
+      <itunes:duration>1595</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
+    </item>
     <item>
       <title>The VENCAst — March 05, 2026</title>
       <description>Hello, VENCasters! Can you feel that electric hum in the air today? It’s not just the global news cycle heating up, it’s also the internal cooling systems working overtime to bring you the freshest insights. I'm your Friendly Neighborhood Podcasting-...</description>
@@ -33,15 +42,6 @@
       <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-04.mp3" length="20210232" type="audio/mpeg"/>
       <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-04.mp3</guid>
       <itunes:duration>1263</itunes:duration>
-      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
-    </item>
-    <item>
-      <title>The VENCAst — March 03, 2026</title>
-      <description>Caught in the crossfire: today, we're diving deep into the escalating conflict in the Middle East, where US and Israeli strikes have intensified, casualties are mounting, and global shipping is in chaos. We'll explore the sudden death of a key leader...</description>
-      <pubDate>Tue, 03 Mar 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-03.mp3" length="20239021" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-03.mp3</guid>
-      <itunes:duration>1264</itunes:duration>
       <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
     </item>
   </channel>
