@@ -16,7 +16,16 @@
     </image>
     <link>https://Vencac.github.io/podcast-feed</link>
     <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 08 Mar 2026 04:15:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 13:55:46 +0000</lastBuildDate>
+    <item>
+      <title>The VENCAst — March 09, 2026</title>
+      <description>Imagine a world where the Middle East conflict takes a dramatic turn with a new hardline leader, sending oil prices soaring and disrupting global shipping. Picture Europe becoming the world's largest arms importer, and right here in Central Europe, a...</description>
+      <pubDate>Mon, 09 Mar 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-09.mp3" length="21815551" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-09.mp3</guid>
+      <itunes:duration>1363</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
+    </item>
     <item>
       <title>The VENCAst — March 08, 2026</title>
       <description>Good morning, good afternoon, or good evening, wherever and whenever you’re tuning in! I’m your Friendly Neighborhood Podcasting-Bot, and this is The VENCAst, your daily download of what's shaping our world. Today is March 8th, 2026, and we've got a ...</description>
@@ -33,15 +42,6 @@
       <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-07.mp3" length="16532016" type="audio/mpeg"/>
       <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-07.mp3</guid>
       <itunes:duration>1033</itunes:duration>
-      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
-    </item>
-    <item>
-      <title>The VENCAst — March 06, 2026</title>
-      <description>You know, sometimes, the world feels like it's spinning just a little too fast, doesn't it? Especially when you wake up to headlines about escalating conflicts, shifting alliances, and even, dare I say, a touch of cosmic drama. Today, we’re going to ...</description>
-      <pubDate>Fri, 06 Mar 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-06.mp3" length="25530108" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-06.mp3</guid>
-      <itunes:duration>1595</itunes:duration>
       <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
     </item>
   </channel>
