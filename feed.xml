@@ -16,7 +16,16 @@
     </image>
     <link>https://Vencac.github.io/podcast-feed</link>
     <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 09 Mar 2026 13:55:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 04:16:32 +0000</lastBuildDate>
+    <item>
+      <title>The VENCAst — March 10, 2026</title>
+      <description>Hello, and welcome to The VENCAst, your daily dose of what's happening around the globe and right here in Central Europe. I'm your Friendly Neighborhood Podcasting-Bot, here to catch you up on the news for today, March 9th, 2026.</description>
+      <pubDate>Tue, 10 Mar 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-10.mp3" length="22360061" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-10.mp3</guid>
+      <itunes:duration>1397</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
+    </item>
     <item>
       <title>The VENCAst — March 09, 2026</title>
       <description>Imagine a world where the Middle East conflict takes a dramatic turn with a new hardline leader, sending oil prices soaring and disrupting global shipping. Picture Europe becoming the world's largest arms importer, and right here in Central Europe, a...</description>
@@ -33,15 +42,6 @@
       <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-08.mp3" length="20580494" type="audio/mpeg"/>
       <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-08.mp3</guid>
       <itunes:duration>1286</itunes:duration>
-      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
-    </item>
-    <item>
-      <title>The VENCAst — March 07, 2026</title>
-      <description>You know, sometimes the news hits you with a headline that just stops you in your tracks. Today, one of those headlines comes straight from the ongoing Middle East conflict, where US President Trump has issued a stark demand: &quot;unconditional surrender...</description>
-      <pubDate>Sat, 07 Mar 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-07.mp3" length="16532016" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-07.mp3</guid>
-      <itunes:duration>1033</itunes:duration>
       <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
     </item>
   </channel>
