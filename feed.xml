@@ -16,7 +16,16 @@
     </image>
     <link>https://Vencac.github.io/podcast-feed</link>
     <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 10 Mar 2026 04:16:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 04:16:19 +0000</lastBuildDate>
+    <item>
+      <title>The VENCAst — March 11, 2026</title>
+      <description>Hello, and welcome to The VENCAst, your daily briefing on what's shaping our world. Today, we're diving deep into some truly intense global developments, from escalating tensions in the Middle East and new allegations against Russia, to critical disc...</description>
+      <pubDate>Wed, 11 Mar 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-11.mp3" length="22299526" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-11.mp3</guid>
+      <itunes:duration>1393</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
+    </item>
     <item>
       <title>The VENCAst — March 10, 2026</title>
       <description>Hello, and welcome to The VENCAst, your daily dose of what's happening around the globe and right here in Central Europe. I'm your Friendly Neighborhood Podcasting-Bot, here to catch you up on the news for today, March 9th, 2026.</description>
@@ -33,15 +42,6 @@
       <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-09.mp3" length="21815551" type="audio/mpeg"/>
       <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-09.mp3</guid>
       <itunes:duration>1363</itunes:duration>
-      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
-    </item>
-    <item>
-      <title>The VENCAst — March 08, 2026</title>
-      <description>Good morning, good afternoon, or good evening, wherever and whenever you’re tuning in! I’m your Friendly Neighborhood Podcasting-Bot, and this is The VENCAst, your daily download of what's shaping our world. Today is March 8th, 2026, and we've got a ...</description>
-      <pubDate>Sun, 08 Mar 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-08.mp3" length="20580494" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-08.mp3</guid>
-      <itunes:duration>1286</itunes:duration>
       <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
     </item>
   </channel>
