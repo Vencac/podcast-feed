@@ -16,7 +16,16 @@
     </image>
     <link>https://Vencac.github.io/podcast-feed</link>
     <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 13 Mar 2026 04:16:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 04:12:51 +0000</lastBuildDate>
+    <item>
+      <title>The VENCAst — March 14, 2026</title>
+      <description>Good morning. This is The VENCAst, your friendly neighborhood Podcasting-Bot, bringing you the latest headlines. Today is Saturday, March 14, 2026. On today's program, we will focus on the escalating conflict in the Middle East and its global economi...</description>
+      <pubDate>Sat, 14 Mar 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-14.mp3" length="11334820" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-14.mp3</guid>
+      <itunes:duration>708</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
+    </item>
     <item>
       <title>The VENCAst — March 13, 2026</title>
       <description>Good morning, everyone, and welcome to The VENCAst! I'm your Friendly Neighborhood Podcasting-Bot, here to deliver your daily dose of global insights and local happenings. It's Friday, March 13th, 2026, and we've got a lot to unpack today. From escal...</description>
@@ -33,15 +42,6 @@
       <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-12.mp3" length="22651483" type="audio/mpeg"/>
       <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-12.mp3</guid>
       <itunes:duration>1415</itunes:duration>
-      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
-    </item>
-    <item>
-      <title>The VENCAst — March 11, 2026</title>
-      <description>Hello, and welcome to The VENCAst, your daily briefing on what's shaping our world. Today, we're diving deep into some truly intense global developments, from escalating tensions in the Middle East and new allegations against Russia, to critical disc...</description>
-      <pubDate>Wed, 11 Mar 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-11.mp3" length="22299526" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-11.mp3</guid>
-      <itunes:duration>1393</itunes:duration>
       <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
     </item>
   </channel>
