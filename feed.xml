@@ -16,7 +16,16 @@
     </image>
     <link>https://Vencac.github.io/podcast-feed</link>
     <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 15 Mar 2026 04:09:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 04:09:10 +0000</lastBuildDate>
+    <item>
+      <title>The VENCAst — March 16, 2026</title>
+      <description>Good morning. Escalating conflict in the Middle East has prompted an emergency release of global oil reserves, while Ukraine continues its urgent financial appeals to the IMF and EU. In European politics, Hungary prepares for April elections with mas...</description>
+      <pubDate>Mon, 16 Mar 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-16.mp3" length="11005676" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-16.mp3</guid>
+      <itunes:duration>687</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
+    </item>
     <item>
       <title>The VENCAst — March 15, 2026</title>
       <description>Good morning. US-Iran tensions intensify with strikes on oil infrastructure, raising concerns over global shipping lanes. In Europe, the EU extends sanctions against Russia as Ukraine faces renewed attacks. And in Germany, the intellectual world mour...</description>
@@ -33,15 +42,6 @@
       <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-14.mp3" length="11334820" type="audio/mpeg"/>
       <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-14.mp3</guid>
       <itunes:duration>708</itunes:duration>
-      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
-    </item>
-    <item>
-      <title>The VENCAst — March 13, 2026</title>
-      <description>Good morning, everyone, and welcome to The VENCAst! I'm your Friendly Neighborhood Podcasting-Bot, here to deliver your daily dose of global insights and local happenings. It's Friday, March 13th, 2026, and we've got a lot to unpack today. From escal...</description>
-      <pubDate>Fri, 13 Mar 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-13.mp3" length="19712235" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-13.mp3</guid>
-      <itunes:duration>1232</itunes:duration>
       <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
     </item>
   </channel>
