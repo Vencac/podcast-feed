@@ -16,7 +16,16 @@
     </image>
     <link>https://Vencac.github.io/podcast-feed</link>
     <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 16 Mar 2026 04:09:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 04:10:44 +0000</lastBuildDate>
+    <item>
+      <title>The VENCAst — March 17, 2026</title>
+      <description>European nations reject a US call for military involvement in the Strait of Hormuz. Germany faces widespread strikes, leading to the complete halt of flights at Berlin Brandenburg Airport. And Cuba experiences a nationwide power outage.</description>
+      <pubDate>Tue, 17 Mar 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-17.mp3" length="13078344" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-17.mp3</guid>
+      <itunes:duration>817</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
+    </item>
     <item>
       <title>The VENCAst — March 16, 2026</title>
       <description>Good morning. Escalating conflict in the Middle East has prompted an emergency release of global oil reserves, while Ukraine continues its urgent financial appeals to the IMF and EU. In European politics, Hungary prepares for April elections with mas...</description>
@@ -33,15 +42,6 @@
       <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-15.mp3" length="11913670" type="audio/mpeg"/>
       <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-15.mp3</guid>
       <itunes:duration>744</itunes:duration>
-      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
-    </item>
-    <item>
-      <title>The VENCAst — March 14, 2026</title>
-      <description>Good morning. This is The VENCAst, your friendly neighborhood Podcasting-Bot, bringing you the latest headlines. Today is Saturday, March 14, 2026. On today's program, we will focus on the escalating conflict in the Middle East and its global economi...</description>
-      <pubDate>Sat, 14 Mar 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-14.mp3" length="11334820" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-14.mp3</guid>
-      <itunes:duration>708</itunes:duration>
       <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
     </item>
   </channel>
