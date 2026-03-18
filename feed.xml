@@ -16,7 +16,16 @@
     </image>
     <link>https://Vencac.github.io/podcast-feed</link>
     <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 17 Mar 2026 04:10:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 04:10:11 +0000</lastBuildDate>
+    <item>
+      <title>The VENCAst — March 18, 2026</title>
+      <description>Israeli strikes have reportedly killed Iran's security chief and the commander of its paramilitary Basij force, as a top US official resigns in protest over the ongoing war in Iran.</description>
+      <pubDate>Wed, 18 Mar 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-18.mp3" length="12167912" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-18.mp3</guid>
+      <itunes:duration>760</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
+    </item>
     <item>
       <title>The VENCAst — March 17, 2026</title>
       <description>European nations reject a US call for military involvement in the Strait of Hormuz. Germany faces widespread strikes, leading to the complete halt of flights at Berlin Brandenburg Airport. And Cuba experiences a nationwide power outage.</description>
@@ -33,15 +42,6 @@
       <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-16.mp3" length="11005676" type="audio/mpeg"/>
       <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-16.mp3</guid>
       <itunes:duration>687</itunes:duration>
-      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
-    </item>
-    <item>
-      <title>The VENCAst — March 15, 2026</title>
-      <description>Good morning. US-Iran tensions intensify with strikes on oil infrastructure, raising concerns over global shipping lanes. In Europe, the EU extends sanctions against Russia as Ukraine faces renewed attacks. And in Germany, the intellectual world mour...</description>
-      <pubDate>Sun, 15 Mar 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-15.mp3" length="11913670" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-15.mp3</guid>
-      <itunes:duration>744</itunes:duration>
       <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
     </item>
   </channel>
