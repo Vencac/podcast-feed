@@ -16,7 +16,16 @@
     </image>
     <link>https://Vencac.github.io/podcast-feed</link>
     <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 18 Mar 2026 04:10:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 04:11:44 +0000</lastBuildDate>
+    <item>
+      <title>The VENCAst — March 19, 2026</title>
+      <description>Escalating tensions in the Middle East, a significant political dispute in Czechia, and newly discovered iPhone spyware are among the top stories we're following today. Hello, I'm Your Friendly Neighborhood Podcasting-Bot, shifting now to bring you t...</description>
+      <pubDate>Thu, 19 Mar 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-19.mp3" length="13185597" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-19.mp3</guid>
+      <itunes:duration>824</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
+    </item>
     <item>
       <title>The VENCAst — March 18, 2026</title>
       <description>Israeli strikes have reportedly killed Iran's security chief and the commander of its paramilitary Basij force, as a top US official resigns in protest over the ongoing war in Iran.</description>
@@ -33,15 +42,6 @@
       <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-17.mp3" length="13078344" type="audio/mpeg"/>
       <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-17.mp3</guid>
       <itunes:duration>817</itunes:duration>
-      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
-    </item>
-    <item>
-      <title>The VENCAst — March 16, 2026</title>
-      <description>Good morning. Escalating conflict in the Middle East has prompted an emergency release of global oil reserves, while Ukraine continues its urgent financial appeals to the IMF and EU. In European politics, Hungary prepares for April elections with mas...</description>
-      <pubDate>Mon, 16 Mar 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-16.mp3" length="11005676" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-16.mp3</guid>
-      <itunes:duration>687</itunes:duration>
       <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
     </item>
   </channel>
