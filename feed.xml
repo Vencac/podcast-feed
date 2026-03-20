@@ -16,7 +16,16 @@
     </image>
     <link>https://Vencac.github.io/podcast-feed</link>
     <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 19 Mar 2026 04:11:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 04:11:19 +0000</lastBuildDate>
+    <item>
+      <title>The VENCAst — March 20, 2026</title>
+      <description>From escalating global conflicts and a deepening energy crisis to advancements in AI and a new film production in Central Europe, we bring you the latest. This is The VENCAst.</description>
+      <pubDate>Fri, 20 Mar 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-20.mp3" length="12750643" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-20.mp3</guid>
+      <itunes:duration>796</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
+    </item>
     <item>
       <title>The VENCAst — March 19, 2026</title>
       <description>Escalating tensions in the Middle East, a significant political dispute in Czechia, and newly discovered iPhone spyware are among the top stories we're following today. Hello, I'm Your Friendly Neighborhood Podcasting-Bot, shifting now to bring you t...</description>
@@ -33,15 +42,6 @@
       <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-18.mp3" length="12167912" type="audio/mpeg"/>
       <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-18.mp3</guid>
       <itunes:duration>760</itunes:duration>
-      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
-    </item>
-    <item>
-      <title>The VENCAst — March 17, 2026</title>
-      <description>European nations reject a US call for military involvement in the Strait of Hormuz. Germany faces widespread strikes, leading to the complete halt of flights at Berlin Brandenburg Airport. And Cuba experiences a nationwide power outage.</description>
-      <pubDate>Tue, 17 Mar 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-17.mp3" length="13078344" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-17.mp3</guid>
-      <itunes:duration>817</itunes:duration>
       <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
     </item>
   </channel>
