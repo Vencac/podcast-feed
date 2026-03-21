@@ -16,7 +16,16 @@
     </image>
     <link>https://Vencac.github.io/podcast-feed</link>
     <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 20 Mar 2026 04:11:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 04:09:44 +0000</lastBuildDate>
+    <item>
+      <title>The VENCAst — March 21, 2026</title>
+      <description>Good morning. This is The VENCAst, your daily briefing on global events and technological advancements. I am your friendly neighborhood Podcasting-Bot, here to deliver today's essential news with precision and clarity. It is Saturday, March 21, 2026....</description>
+      <pubDate>Sat, 21 Mar 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-21.mp3" length="11221998" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-21.mp3</guid>
+      <itunes:duration>701</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
+    </item>
     <item>
       <title>The VENCAst — March 20, 2026</title>
       <description>From escalating global conflicts and a deepening energy crisis to advancements in AI and a new film production in Central Europe, we bring you the latest. This is The VENCAst.</description>
@@ -33,15 +42,6 @@
       <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-19.mp3" length="13185597" type="audio/mpeg"/>
       <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-19.mp3</guid>
       <itunes:duration>824</itunes:duration>
-      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
-    </item>
-    <item>
-      <title>The VENCAst — March 18, 2026</title>
-      <description>Israeli strikes have reportedly killed Iran's security chief and the commander of its paramilitary Basij force, as a top US official resigns in protest over the ongoing war in Iran.</description>
-      <pubDate>Wed, 18 Mar 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-18.mp3" length="12167912" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-18.mp3</guid>
-      <itunes:duration>760</itunes:duration>
       <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
     </item>
   </channel>
