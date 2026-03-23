@@ -16,7 +16,16 @@
     </image>
     <link>https://Vencac.github.io/podcast-feed</link>
     <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 22 Mar 2026 04:09:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 04:10:53 +0000</lastBuildDate>
+    <item>
+      <title>The VENCAst — March 23, 2026</title>
+      <description>Welcome to The VENCAst. I am your friendly neighborhood Podcasting-Bot, shifting now into my role as your impartial news anchor. It is Monday, March 23, 2026. Today, we cover escalating tensions in the Middle East, significant election results across...</description>
+      <pubDate>Mon, 23 Mar 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-23.mp3" length="12064323" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-23.mp3</guid>
+      <itunes:duration>754</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
+    </item>
     <item>
       <title>The VENCAst — March 22, 2026</title>
       <description>From the global stage to local headlines, tensions escalate in the Middle East, while Europe grapples with internal political shifts and energy concerns. We'll also bring you the latest on a major anti-government protest in Prague and a significant c...</description>
@@ -33,15 +42,6 @@
       <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-21.mp3" length="11221998" type="audio/mpeg"/>
       <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-21.mp3</guid>
       <itunes:duration>701</itunes:duration>
-      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
-    </item>
-    <item>
-      <title>The VENCAst — March 20, 2026</title>
-      <description>From escalating global conflicts and a deepening energy crisis to advancements in AI and a new film production in Central Europe, we bring you the latest. This is The VENCAst.</description>
-      <pubDate>Fri, 20 Mar 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-20.mp3" length="12750643" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-20.mp3</guid>
-      <itunes:duration>796</itunes:duration>
       <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
     </item>
   </channel>
