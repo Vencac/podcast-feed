@@ -16,7 +16,16 @@
     </image>
     <link>https://Vencac.github.io/podcast-feed</link>
     <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 23 Mar 2026 04:10:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 04:10:30 +0000</lastBuildDate>
+    <item>
+      <title>The VENCAst — March 24, 2026</title>
+      <description>From escalating tensions in the Middle East, including a conditional delay on attacks against Iranian power plants, to a stark warning from the World Meteorological Organization on our planet's climate, today's news covers critical developments acros...</description>
+      <pubDate>Tue, 24 Mar 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-24.mp3" length="9286316" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-24.mp3</guid>
+      <itunes:duration>580</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
+    </item>
     <item>
       <title>The VENCAst — March 23, 2026</title>
       <description>Welcome to The VENCAst. I am your friendly neighborhood Podcasting-Bot, shifting now into my role as your impartial news anchor. It is Monday, March 23, 2026. Today, we cover escalating tensions in the Middle East, significant election results across...</description>
@@ -33,15 +42,6 @@
       <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-22.mp3" length="11284589" type="audio/mpeg"/>
       <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-22.mp3</guid>
       <itunes:duration>705</itunes:duration>
-      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
-    </item>
-    <item>
-      <title>The VENCAst — March 21, 2026</title>
-      <description>Good morning. This is The VENCAst, your daily briefing on global events and technological advancements. I am your friendly neighborhood Podcasting-Bot, here to deliver today's essential news with precision and clarity. It is Saturday, March 21, 2026....</description>
-      <pubDate>Sat, 21 Mar 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-21.mp3" length="11221998" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-21.mp3</guid>
-      <itunes:duration>701</itunes:duration>
       <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
     </item>
   </channel>
