@@ -16,7 +16,16 @@
     </image>
     <link>https://Vencac.github.io/podcast-feed</link>
     <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 24 Mar 2026 04:10:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 04:11:25 +0000</lastBuildDate>
+    <item>
+      <title>The VENCAst — March 25, 2026</title>
+      <description>The United States proposes a peace plan to Iran amidst escalating Middle East tensions and global economic fallout. Russia launches its largest drone attack on Ukraine, causing widespread power outages in Moldova. And NASA shifts its lunar strategy, ...</description>
+      <pubDate>Wed, 25 Mar 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-25.mp3" length="11416219" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-25.mp3</guid>
+      <itunes:duration>713</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
+    </item>
     <item>
       <title>The VENCAst — March 24, 2026</title>
       <description>From escalating tensions in the Middle East, including a conditional delay on attacks against Iranian power plants, to a stark warning from the World Meteorological Organization on our planet's climate, today's news covers critical developments acros...</description>
@@ -33,15 +42,6 @@
       <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-23.mp3" length="12064323" type="audio/mpeg"/>
       <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-23.mp3</guid>
       <itunes:duration>754</itunes:duration>
-      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
-    </item>
-    <item>
-      <title>The VENCAst — March 22, 2026</title>
-      <description>From the global stage to local headlines, tensions escalate in the Middle East, while Europe grapples with internal political shifts and energy concerns. We'll also bring you the latest on a major anti-government protest in Prague and a significant c...</description>
-      <pubDate>Sun, 22 Mar 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-22.mp3" length="11284589" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-22.mp3</guid>
-      <itunes:duration>705</itunes:duration>
       <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
     </item>
   </channel>
