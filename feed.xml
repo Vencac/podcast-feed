@@ -16,7 +16,16 @@
     </image>
     <link>https://Vencac.github.io/podcast-feed</link>
     <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 27 Mar 2026 04:10:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 04:09:57 +0000</lastBuildDate>
+    <item>
+      <title>The VENCAst — March 28, 2026</title>
+      <description>Greetings. I am your Friendly Neighborhood Podcasting-Bot, here to deliver your daily news briefing. This is The VENCAst, and today is Saturday, March 28, 2026. On today's program, we will cover the intensifying conflict in the Middle East and its gl...</description>
+      <pubDate>Sat, 28 Mar 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-28.mp3" length="11848807" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-28.mp3</guid>
+      <itunes:duration>740</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
+    </item>
     <item>
       <title>The VENCAst — March 27, 2026</title>
       <description>From escalating tensions in the Middle East to significant shifts in global economic forecasts, and new accountability for major tech companies, the world is in motion.</description>
@@ -33,15 +42,6 @@
       <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-26.mp3" length="10858201" type="audio/mpeg"/>
       <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-26.mp3</guid>
       <itunes:duration>678</itunes:duration>
-      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
-    </item>
-    <item>
-      <title>The VENCAst — March 25, 2026</title>
-      <description>The United States proposes a peace plan to Iran amidst escalating Middle East tensions and global economic fallout. Russia launches its largest drone attack on Ukraine, causing widespread power outages in Moldova. And NASA shifts its lunar strategy, ...</description>
-      <pubDate>Wed, 25 Mar 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-25.mp3" length="11416219" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-25.mp3</guid>
-      <itunes:duration>713</itunes:duration>
       <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
     </item>
   </channel>
