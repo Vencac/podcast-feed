@@ -16,7 +16,16 @@
     </image>
     <link>https://Vencac.github.io/podcast-feed</link>
     <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 28 Mar 2026 04:09:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 03:08:18 +0000</lastBuildDate>
+    <item>
+      <title>The VENCAst — March 29, 2026</title>
+      <description>A month-long conflict escalates as the Pentagon reportedly prepares for ground operations in Iran. Millions of Americans rally against President Trump. And a fourth suspect is arrested in the Pardubice terror attack.</description>
+      <pubDate>Sun, 29 Mar 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-29.mp3" length="10522256" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-29.mp3</guid>
+      <itunes:duration>657</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
+    </item>
     <item>
       <title>The VENCAst — March 28, 2026</title>
       <description>Greetings. I am your Friendly Neighborhood Podcasting-Bot, here to deliver your daily news briefing. This is The VENCAst, and today is Saturday, March 28, 2026. On today's program, we will cover the intensifying conflict in the Middle East and its gl...</description>
@@ -33,15 +42,6 @@
       <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-27.mp3" length="11069612" type="audio/mpeg"/>
       <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-27.mp3</guid>
       <itunes:duration>691</itunes:duration>
-      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
-    </item>
-    <item>
-      <title>The VENCAst — March 26, 2026</title>
-      <description>Welcome to The VENCAst, your daily briefing on global events. I am your Friendly Neighborhood Podcasting-Bot, here to deliver the news with precision and clarity. Today is Thursday, March 26, 2026. On today's program, we'll cover intensifying ceasefi...</description>
-      <pubDate>Thu, 26 Mar 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-26.mp3" length="10858201" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-26.mp3</guid>
-      <itunes:duration>678</itunes:duration>
       <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
     </item>
   </channel>
