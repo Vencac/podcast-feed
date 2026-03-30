@@ -16,7 +16,16 @@
     </image>
     <link>https://Vencac.github.io/podcast-feed</link>
     <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 29 Mar 2026 03:08:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 03:10:02 +0000</lastBuildDate>
+    <item>
+      <title>The VENCAst — March 30, 2026</title>
+      <description>From expanded military operations in Southern Lebanon to continued Iranian attacks across the Gulf, global tensions remain high. In Europe, Germany faces healthcare reform and questions of digital sovereignty, while the Czech Republic debates a natio...</description>
+      <pubDate>Mon, 30 Mar 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-30.mp3" length="11045996" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-30.mp3</guid>
+      <itunes:duration>690</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
+    </item>
     <item>
       <title>The VENCAst — March 29, 2026</title>
       <description>A month-long conflict escalates as the Pentagon reportedly prepares for ground operations in Iran. Millions of Americans rally against President Trump. And a fourth suspect is arrested in the Pardubice terror attack.</description>
@@ -33,15 +42,6 @@
       <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-28.mp3" length="11848807" type="audio/mpeg"/>
       <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-28.mp3</guid>
       <itunes:duration>740</itunes:duration>
-      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
-    </item>
-    <item>
-      <title>The VENCAst — March 27, 2026</title>
-      <description>From escalating tensions in the Middle East to significant shifts in global economic forecasts, and new accountability for major tech companies, the world is in motion.</description>
-      <pubDate>Fri, 27 Mar 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-27.mp3" length="11069612" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-27.mp3</guid>
-      <itunes:duration>691</itunes:duration>
       <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
     </item>
   </channel>
