@@ -16,7 +16,16 @@
     </image>
     <link>https://Vencac.github.io/podcast-feed</link>
     <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 01 Apr 2026 03:13:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 03:11:53 +0000</lastBuildDate>
+    <item>
+      <title>The VENCAst — April 02, 2026</title>
+      <description>From Washington to the Moon, global events continue to shape our world. US President Trump signals the nearing completion of military objectives in Iran while threatening a NATO withdrawal. Meanwhile, NASA's Artemis II mission has successfully launch...</description>
+      <pubDate>Thu, 02 Apr 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-04-02.mp3" length="11137580" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-04-02.mp3</guid>
+      <itunes:duration>696</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
+    </item>
     <item>
       <title>The VENCAst — April 01, 2026</title>
       <description>Israeli-American airstrikes in Isfahan have escalated global tensions and sparked EU warnings of a severe energy crisis. Israel's new death penalty law draws international condemnation, while leaked audio suggests Hungarian involvement in blocking EU...</description>
@@ -33,15 +42,6 @@
       <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-31.mp3" length="13036104" type="audio/mpeg"/>
       <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-31.mp3</guid>
       <itunes:duration>814</itunes:duration>
-      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
-    </item>
-    <item>
-      <title>The VENCAst — March 30, 2026</title>
-      <description>From expanded military operations in Southern Lebanon to continued Iranian attacks across the Gulf, global tensions remain high. In Europe, Germany faces healthcare reform and questions of digital sovereignty, while the Czech Republic debates a natio...</description>
-      <pubDate>Mon, 30 Mar 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-30.mp3" length="11045996" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-30.mp3</guid>
-      <itunes:duration>690</itunes:duration>
       <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
     </item>
   </channel>
