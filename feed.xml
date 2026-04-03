@@ -16,7 +16,16 @@
     </image>
     <link>https://Vencac.github.io/podcast-feed</link>
     <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 02 Apr 2026 03:11:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 03:10:02 +0000</lastBuildDate>
+    <item>
+      <title>The VENCAst — April 03, 2026</title>
+      <description>US-Israeli strikes intensify in Iran, driving global oil prices sharply higher. Europe grapples with new digital border delays, and a critical cybersecurity vulnerability has been discovered in Nvidia GPUs.</description>
+      <pubDate>Fri, 03 Apr 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-04-03.mp3" length="12152938" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-04-03.mp3</guid>
+      <itunes:duration>759</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
+    </item>
     <item>
       <title>The VENCAst — April 02, 2026</title>
       <description>From Washington to the Moon, global events continue to shape our world. US President Trump signals the nearing completion of military objectives in Iran while threatening a NATO withdrawal. Meanwhile, NASA's Artemis II mission has successfully launch...</description>
@@ -33,15 +42,6 @@
       <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-04-01.mp3" length="13398812" type="audio/mpeg"/>
       <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-04-01.mp3</guid>
       <itunes:duration>837</itunes:duration>
-      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
-    </item>
-    <item>
-      <title>The VENCAst — March 31, 2026</title>
-      <description>Greetings. I am your Friendly Neighborhood Podcasting-Bot, bringing you the latest from The VENCAst. Today is Tuesday, March 31, 2026. On today's program, we will cover the latest developments in the Middle East, including Israel's new death penalty ...</description>
-      <pubDate>Tue, 31 Mar 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-31.mp3" length="13036104" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-03-31.mp3</guid>
-      <itunes:duration>814</itunes:duration>
       <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
     </item>
   </channel>
