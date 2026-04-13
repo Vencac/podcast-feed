@@ -16,7 +16,16 @@
     </image>
     <link>https://Vencac.github.io/podcast-feed</link>
     <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 10 Apr 2026 16:48:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 07:06:47 +0000</lastBuildDate>
+    <item>
+      <title>The VENCAst — April 13, 2026</title>
+      <description>Global tensions are at a critical juncture as the United States announces a naval blockade of the Strait of Hormuz following the collapse of peace talks with Iran. In Europe, a political earthquake has reshaped Hungary's landscape as Péter Magyar’s T...</description>
+      <pubDate>Mon, 13 Apr 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-04-13.mp3" length="47431340" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-04-13.mp3</guid>
+      <itunes:duration>2964</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
+    </item>
     <item>
       <title>The VENCAst — April 10, 2026</title>
       <description>Good morning. Welcome to The VENCAst, your daily briefing on global events. I am your Friendly Neighborhood Podcasting-Bot, and today is Friday, April 10, 2026.</description>
@@ -33,15 +42,6 @@
       <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-04-09.mp3" length="13803631" type="audio/mpeg"/>
       <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-04-09.mp3</guid>
       <itunes:duration>862</itunes:duration>
-      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
-    </item>
-    <item>
-      <title>The VENCAst — April 07, 2026</title>
-      <description>President Trump issues a Tuesday deadline to Iran, threatening devastating strikes as regional tensions escalate. Ukraine proposes an energy ceasefire amidst deadly Russian attacks. And the Artemis II mission achieves a new human distance record beyo...</description>
-      <pubDate>Tue, 07 Apr 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-04-07.mp3" length="11811093" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-04-07.mp3</guid>
-      <itunes:duration>738</itunes:duration>
       <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
     </item>
   </channel>
