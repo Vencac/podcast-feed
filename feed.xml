@@ -16,7 +16,16 @@
     </image>
     <link>https://Vencac.github.io/podcast-feed</link>
     <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 13 Apr 2026 07:06:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 03:26:27 +0000</lastBuildDate>
+    <item>
+      <title>The VENCAst — April 14, 2026</title>
+      <description>Your daily news briefing for 2026-04-14</description>
+      <pubDate>Tue, 14 Apr 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-04-14.mp3" length="40190015" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-04-14.mp3</guid>
+      <itunes:duration>2511</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
+    </item>
     <item>
       <title>The VENCAst — April 13, 2026</title>
       <description>Global tensions are at a critical juncture as the United States announces a naval blockade of the Strait of Hormuz following the collapse of peace talks with Iran. In Europe, a political earthquake has reshaped Hungary's landscape as Péter Magyar’s T...</description>
@@ -33,15 +42,6 @@
       <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-04-10.mp3" length="26904230" type="audio/mpeg"/>
       <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-04-10.mp3</guid>
       <itunes:duration>1681</itunes:duration>
-      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
-    </item>
-    <item>
-      <title>The VENCAst — April 09, 2026</title>
-      <description>A fragile ceasefire between the United States and Iran faces immediate tests, raising concerns about regional stability. US President Trump discusses potential NATO withdrawal amid European skepticism. And in the Czech Republic, a major EU subsidy fr...</description>
-      <pubDate>Thu, 09 Apr 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-04-09.mp3" length="13803631" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-04-09.mp3</guid>
-      <itunes:duration>862</itunes:duration>
       <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
     </item>
   </channel>
