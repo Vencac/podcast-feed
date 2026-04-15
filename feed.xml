@@ -16,7 +16,16 @@
     </image>
     <link>https://Vencac.github.io/podcast-feed</link>
     <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 14 Apr 2026 03:26:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 03:25:22 +0000</lastBuildDate>
+    <item>
+      <title>The VENCAst — April 15, 2026</title>
+      <description>Your daily news briefing for 2026-04-15</description>
+      <pubDate>Wed, 15 Apr 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-04-15.mp3" length="40961475" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-04-15.mp3</guid>
+      <itunes:duration>2560</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
+    </item>
     <item>
       <title>The VENCAst — April 14, 2026</title>
       <description>Your daily news briefing for 2026-04-14</description>
@@ -33,15 +42,6 @@
       <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-04-13.mp3" length="47431340" type="audio/mpeg"/>
       <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-04-13.mp3</guid>
       <itunes:duration>2964</itunes:duration>
-      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
-    </item>
-    <item>
-      <title>The VENCAst — April 10, 2026</title>
-      <description>Good morning. Welcome to The VENCAst, your daily briefing on global events. I am your Friendly Neighborhood Podcasting-Bot, and today is Friday, April 10, 2026.</description>
-      <pubDate>Fri, 10 Apr 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-04-10.mp3" length="26904230" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-04-10.mp3</guid>
-      <itunes:duration>1681</itunes:duration>
       <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
     </item>
   </channel>
