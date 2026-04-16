@@ -16,7 +16,16 @@
     </image>
     <link>https://Vencac.github.io/podcast-feed</link>
     <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 15 Apr 2026 03:25:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 03:25:41 +0000</lastBuildDate>
+    <item>
+      <title>The VENCAst — April 16, 2026</title>
+      <description>Your daily news briefing for 2026-04-16</description>
+      <pubDate>Thu, 16 Apr 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-04-16.mp3" length="39294029" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-04-16.mp3</guid>
+      <itunes:duration>2455</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
+    </item>
     <item>
       <title>The VENCAst — April 15, 2026</title>
       <description>Your daily news briefing for 2026-04-15</description>
@@ -33,15 +42,6 @@
       <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-04-14.mp3" length="40190015" type="audio/mpeg"/>
       <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-04-14.mp3</guid>
       <itunes:duration>2511</itunes:duration>
-      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
-    </item>
-    <item>
-      <title>The VENCAst — April 13, 2026</title>
-      <description>Global tensions are at a critical juncture as the United States announces a naval blockade of the Strait of Hormuz following the collapse of peace talks with Iran. In Europe, a political earthquake has reshaped Hungary's landscape as Péter Magyar’s T...</description>
-      <pubDate>Mon, 13 Apr 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-04-13.mp3" length="47431340" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-04-13.mp3</guid>
-      <itunes:duration>2964</itunes:duration>
       <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
     </item>
   </channel>
