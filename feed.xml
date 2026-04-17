@@ -16,7 +16,16 @@
     </image>
     <link>https://Vencac.github.io/podcast-feed</link>
     <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 16 Apr 2026 03:25:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 03:24:37 +0000</lastBuildDate>
+    <item>
+      <title>The VENCAst — April 17, 2026</title>
+      <description>Your daily news briefing for 2026-04-17</description>
+      <pubDate>Fri, 17 Apr 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-04-17.mp3" length="37904300" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-04-17.mp3</guid>
+      <itunes:duration>2369</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
+    </item>
     <item>
       <title>The VENCAst — April 16, 2026</title>
       <description>Your daily news briefing for 2026-04-16</description>
@@ -33,15 +42,6 @@
       <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-04-15.mp3" length="40961475" type="audio/mpeg"/>
       <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-04-15.mp3</guid>
       <itunes:duration>2560</itunes:duration>
-      <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
-    </item>
-    <item>
-      <title>The VENCAst — April 14, 2026</title>
-      <description>Your daily news briefing for 2026-04-14</description>
-      <pubDate>Tue, 14 Apr 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-04-14.mp3" length="40190015" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-04-14.mp3</guid>
-      <itunes:duration>2511</itunes:duration>
       <itunes:image href="https://Vencac.github.io/podcast-feed/cover.jpg"/>
     </item>
   </channel>
