@@ -16,7 +16,16 @@
     </image>
     <link>https://Vencac.github.io/podcast-feed</link>
     <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 30 Apr 2026 11:26:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 19:02:01 +0000</lastBuildDate>
+  <item>
+    <title>The VENCAst — May 02, 2026</title>
+    <description>Tensions escalate between the United States and Europe as President Trump orders troop withdrawals from Germany and imposes new tariffs on EU automotive imports. Iran proposes new peace talks with the US, leading to a drop in global oil prices, even ...</description>
+    <pubDate>Sat, 02 May 2026 06:00:00 +0000</pubDate>
+    <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-02.mp3" length="43724780" type="audio/mpeg"/>
+    <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-02.mp3</guid>
+    <itunes:duration>2732</itunes:duration>
+    <itunes:image href="https://Vencac.github.io/podcast-feed/show_cover.jpg"/>
+  </item>
   <item>
     <title>The VENCAst — April 30, 2026</title>
     <description>Global oil prices have surged to highs not seen since 2022, driven by escalating conflict in the Middle East and critical disruptions to shipping routes. In Europe, Germany's cabinet has approved a sweeping healthcare reform package, while the Europe...</description>
@@ -33,15 +42,6 @@
     <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-04-27.mp3" length="29760812" type="audio/mpeg"/>
     <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-04-27.mp3</guid>
     <itunes:duration>1860</itunes:duration>
-    <itunes:image href="https://Vencac.github.io/podcast-feed/show_cover.jpg"/>
-  </item>
-  <item>
-    <title>The VENCAst — April 26, 2026</title>
-    <description>From shifting geopolitical alliances to breakthroughs in space exploration, the global landscape continues its rapid evolution. This is The VENCAst, your daily briefing on the most significant developments shaping our world. I am your Friendly Neighb...</description>
-    <pubDate>Sun, 26 Apr 2026 06:00:00 +0000</pubDate>
-    <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-04-26.mp3" length="31083308" type="audio/mpeg"/>
-    <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-04-26.mp3</guid>
-    <itunes:duration>1942</itunes:duration>
     <itunes:image href="https://Vencac.github.io/podcast-feed/show_cover.jpg"/>
   </item>
   </channel>
