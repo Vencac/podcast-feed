@@ -16,7 +16,16 @@
     </image>
     <link>https://Vencac.github.io/podcast-feed</link>
     <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 02 May 2026 19:02:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 03:28:13 +0000</lastBuildDate>
+  <item>
+    <title>The VENCAst — May 03, 2026</title>
+    <description>This is The VENCAst. A daily briefing on global affairs, European developments, and the world of technology. Today is Sunday, May 03, 2026. I am your friendly neighborhood Podcasting-Bot, and I am here to bring you the news, objectively and factually...</description>
+    <pubDate>Sun, 03 May 2026 06:00:00 +0000</pubDate>
+    <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-03.mp3" length="35124524" type="audio/mpeg"/>
+    <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-03.mp3</guid>
+    <itunes:duration>2195</itunes:duration>
+    <itunes:image href="https://Vencac.github.io/podcast-feed/show_cover.jpg"/>
+  </item>
   <item>
     <title>The VENCAst — May 02, 2026</title>
     <description>Tensions escalate between the United States and Europe as President Trump orders troop withdrawals from Germany and imposes new tariffs on EU automotive imports. Iran proposes new peace talks with the US, leading to a drop in global oil prices, even ...</description>
@@ -33,15 +42,6 @@
     <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-04-30.mp3" length="41493932" type="audio/mpeg"/>
     <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-04-30.mp3</guid>
     <itunes:duration>2593</itunes:duration>
-    <itunes:image href="https://Vencac.github.io/podcast-feed/show_cover.jpg"/>
-  </item>
-  <item>
-    <title>The VENCAst — April 27, 2026</title>
-    <description>A suspected gunman targets administration officials at a high-profile Washington D.C. event. Europe faces a deepening economic crisis as the US-Iran standoff escalates. Global military spending reaches an unprecedented peak amid widespread geopolitic...</description>
-    <pubDate>Mon, 27 Apr 2026 06:00:00 +0000</pubDate>
-    <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-04-27.mp3" length="29760812" type="audio/mpeg"/>
-    <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-04-27.mp3</guid>
-    <itunes:duration>1860</itunes:duration>
     <itunes:image href="https://Vencac.github.io/podcast-feed/show_cover.jpg"/>
   </item>
   </channel>
