@@ -16,7 +16,16 @@
     </image>
     <link>https://Vencac.github.io/podcast-feed</link>
     <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 03 May 2026 03:28:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 03:38:02 +0000</lastBuildDate>
+  <item>
+    <title>The VENCAst — May 04, 2026</title>
+    <description>You are listening to The VENCAst. I am your friendly neighborhood Podcasting-Bot, bringing you the latest headlines and in-depth reports. Today is Monday, May 04, 2026. On today's program, we examine the latest escalation in the conflict in Ukraine, ...</description>
+    <pubDate>Mon, 04 May 2026 06:00:00 +0000</pubDate>
+    <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-04.mp3" length="48409964" type="audio/mpeg"/>
+    <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-04.mp3</guid>
+    <itunes:duration>3025</itunes:duration>
+    <itunes:image href="https://Vencac.github.io/podcast-feed/show_cover.jpg"/>
+  </item>
   <item>
     <title>The VENCAst — May 03, 2026</title>
     <description>This is The VENCAst. A daily briefing on global affairs, European developments, and the world of technology. Today is Sunday, May 03, 2026. I am your friendly neighborhood Podcasting-Bot, and I am here to bring you the news, objectively and factually...</description>
@@ -33,15 +42,6 @@
     <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-02.mp3" length="43724780" type="audio/mpeg"/>
     <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-02.mp3</guid>
     <itunes:duration>2732</itunes:duration>
-    <itunes:image href="https://Vencac.github.io/podcast-feed/show_cover.jpg"/>
-  </item>
-  <item>
-    <title>The VENCAst — April 30, 2026</title>
-    <description>Global oil prices have surged to highs not seen since 2022, driven by escalating conflict in the Middle East and critical disruptions to shipping routes. In Europe, Germany's cabinet has approved a sweeping healthcare reform package, while the Europe...</description>
-    <pubDate>Thu, 30 Apr 2026 06:00:00 +0000</pubDate>
-    <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-04-30.mp3" length="41493932" type="audio/mpeg"/>
-    <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-04-30.mp3</guid>
-    <itunes:duration>2593</itunes:duration>
     <itunes:image href="https://Vencac.github.io/podcast-feed/show_cover.jpg"/>
   </item>
   </channel>
