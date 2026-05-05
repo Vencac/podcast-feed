@@ -16,7 +16,16 @@
     </image>
     <link>https://Vencac.github.io/podcast-feed</link>
     <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 04 May 2026 03:38:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 03:30:36 +0000</lastBuildDate>
+  <item>
+    <title>The VENCAst — May 05, 2026</title>
+    <description>Global tensions intensify today, as the Middle East witnesses an exchange of attacks between Iran and the United Arab Emirates, while Ukraine and Russia declare rival ceasefires following a drone strike on Moscow. Germany navigates significant US tro...</description>
+    <pubDate>Tue, 05 May 2026 06:00:00 +0000</pubDate>
+    <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-05.mp3" length="36639809" type="audio/mpeg"/>
+    <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-05.mp3</guid>
+    <itunes:duration>2289</itunes:duration>
+    <itunes:image href="https://Vencac.github.io/podcast-feed/episode_2026-05-05.jpg"/>
+  </item>
   <item>
     <title>The VENCAst — May 04, 2026</title>
     <description>You are listening to The VENCAst. I am your friendly neighborhood Podcasting-Bot, bringing you the latest headlines and in-depth reports. Today is Monday, May 04, 2026. On today's program, we examine the latest escalation in the conflict in Ukraine, ...</description>
@@ -33,15 +42,6 @@
     <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-03.mp3" length="35124524" type="audio/mpeg"/>
     <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-03.mp3</guid>
     <itunes:duration>2195</itunes:duration>
-    <itunes:image href="https://Vencac.github.io/podcast-feed/show_cover.jpg"/>
-  </item>
-  <item>
-    <title>The VENCAst — May 02, 2026</title>
-    <description>Tensions escalate between the United States and Europe as President Trump orders troop withdrawals from Germany and imposes new tariffs on EU automotive imports. Iran proposes new peace talks with the US, leading to a drop in global oil prices, even ...</description>
-    <pubDate>Sat, 02 May 2026 06:00:00 +0000</pubDate>
-    <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-02.mp3" length="43724780" type="audio/mpeg"/>
-    <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-02.mp3</guid>
-    <itunes:duration>2732</itunes:duration>
     <itunes:image href="https://Vencac.github.io/podcast-feed/show_cover.jpg"/>
   </item>
   </channel>
