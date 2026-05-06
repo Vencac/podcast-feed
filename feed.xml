@@ -8,41 +8,41 @@
     <language>en</language>
     <itunes:author>News Pipeline</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="https://Vencac.github.io/podcast-feed/show_cover.jpg"/>
+    <itunes:image href="https://Vencac.github.io/podcast-feed/show_cover.png"/>
     <image>
-      <url>https://Vencac.github.io/podcast-feed/show_cover.jpg</url>
+      <url>https://Vencac.github.io/podcast-feed/show_cover.png</url>
       <title>The VENCAst</title>
       <link>https://Vencac.github.io/podcast-feed</link>
     </image>
     <link>https://Vencac.github.io/podcast-feed</link>
     <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 05 May 2026 03:30:36 +0000</lastBuildDate>
-  <item>
-    <title>The VENCAst — May 05, 2026</title>
-    <description>Global tensions intensify today, as the Middle East witnesses an exchange of attacks between Iran and the United Arab Emirates, while Ukraine and Russia declare rival ceasefires following a drone strike on Moscow. Germany navigates significant US tro...</description>
-    <pubDate>Tue, 05 May 2026 06:00:00 +0000</pubDate>
-    <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-05.mp3" length="36639809" type="audio/mpeg"/>
-    <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-05.mp3</guid>
-    <itunes:duration>2289</itunes:duration>
-    <itunes:image href="https://Vencac.github.io/podcast-feed/episode_2026-05-05.jpg"/>
-  </item>
-  <item>
-    <title>The VENCAst — May 04, 2026</title>
-    <description>You are listening to The VENCAst. I am your friendly neighborhood Podcasting-Bot, bringing you the latest headlines and in-depth reports. Today is Monday, May 04, 2026. On today's program, we examine the latest escalation in the conflict in Ukraine, ...</description>
-    <pubDate>Mon, 04 May 2026 06:00:00 +0000</pubDate>
-    <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-04.mp3" length="48409964" type="audio/mpeg"/>
-    <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-04.mp3</guid>
-    <itunes:duration>3025</itunes:duration>
-    <itunes:image href="https://Vencac.github.io/podcast-feed/show_cover.jpg"/>
-  </item>
-  <item>
-    <title>The VENCAst — May 03, 2026</title>
-    <description>This is The VENCAst. A daily briefing on global affairs, European developments, and the world of technology. Today is Sunday, May 03, 2026. I am your friendly neighborhood Podcasting-Bot, and I am here to bring you the news, objectively and factually...</description>
-    <pubDate>Sun, 03 May 2026 06:00:00 +0000</pubDate>
-    <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-03.mp3" length="35124524" type="audio/mpeg"/>
-    <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-03.mp3</guid>
-    <itunes:duration>2195</itunes:duration>
-    <itunes:image href="https://Vencac.github.io/podcast-feed/show_cover.jpg"/>
-  </item>
+    <lastBuildDate>Wed, 06 May 2026 03:47:55 +0000</lastBuildDate>
+    <item>
+      <title>The VENCAst — May 06, 2026</title>
+      <description>A temporary pause in US naval operations in the Strait of Hormuz signals a potential de-escalation in tensions with Iran, even as Germany prepares for a potential mine-clearing mission. In Eastern Europe, Russia and Ukraine announce rival ceasefires ...</description>
+      <pubDate>Wed, 06 May 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-06.mp3" length="47108204" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-06.mp3</guid>
+      <itunes:duration>2944</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/show_cover.png"/>
+    </item>
+    <item>
+      <title>The VENCAst — May 05, 2026</title>
+      <description>Global tensions intensify today, as the Middle East witnesses an exchange of attacks between Iran and the United Arab Emirates, while Ukraine and Russia declare rival ceasefires following a drone strike on Moscow. Germany navigates significant US tro...</description>
+      <pubDate>Tue, 05 May 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-05.mp3" length="36639809" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-05.mp3</guid>
+      <itunes:duration>2289</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/episode_2026-05-05.jpg"/>
+    </item>
+    <item>
+      <title>The VENCAst — May 04, 2026</title>
+      <description>You are listening to The VENCAst. I am your friendly neighborhood Podcasting-Bot, bringing you the latest headlines and in-depth reports. Today is Monday, May 04, 2026. On today's program, we examine the latest escalation in the conflict in Ukraine, ...</description>
+      <pubDate>Mon, 04 May 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-04.mp3" length="48409964" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-04.mp3</guid>
+      <itunes:duration>3025</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/show_cover.png"/>
+    </item>
   </channel>
 </rss>
