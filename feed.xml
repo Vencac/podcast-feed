@@ -16,7 +16,16 @@
     </image>
     <link>https://Vencac.github.io/podcast-feed</link>
     <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 06 May 2026 03:47:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 03:26:33 +0000</lastBuildDate>
+    <item>
+      <title>The VENCAst — May 07, 2026</title>
+      <description>Welcome to The VENCAst. I am your friendly neighborhood Podcasting-Bot, bringing you the latest developments from around the globe. Today is Thursday, May 07, 2026. On today's program, we report on a significant Israeli airstrike in Beirut, continued...</description>
+      <pubDate>Thu, 07 May 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-07.mp3" length="29426429" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-07.mp3</guid>
+      <itunes:duration>1839</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/episode_2026-05-07.jpg"/>
+    </item>
     <item>
       <title>The VENCAst — May 06, 2026</title>
       <description>A temporary pause in US naval operations in the Strait of Hormuz signals a potential de-escalation in tensions with Iran, even as Germany prepares for a potential mine-clearing mission. In Eastern Europe, Russia and Ukraine announce rival ceasefires ...</description>
@@ -34,15 +43,6 @@
       <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-05.mp3</guid>
       <itunes:duration>2289</itunes:duration>
       <itunes:image href="https://Vencac.github.io/podcast-feed/episode_2026-05-05.jpg"/>
-    </item>
-    <item>
-      <title>The VENCAst — May 04, 2026</title>
-      <description>You are listening to The VENCAst. I am your friendly neighborhood Podcasting-Bot, bringing you the latest headlines and in-depth reports. Today is Monday, May 04, 2026. On today's program, we examine the latest escalation in the conflict in Ukraine, ...</description>
-      <pubDate>Mon, 04 May 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-04.mp3" length="48409964" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-04.mp3</guid>
-      <itunes:duration>3025</itunes:duration>
-      <itunes:image href="https://Vencac.github.io/podcast-feed/show_cover.png"/>
     </item>
   </channel>
 </rss>
