@@ -16,7 +16,16 @@
     </image>
     <link>https://Vencac.github.io/podcast-feed</link>
     <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 07 May 2026 03:26:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 03:43:05 +0000</lastBuildDate>
+    <item>
+      <title>The VENCAst — May 08, 2026</title>
+      <description>Here is the significantly expanded podcast script, aiming for over 3500 words while maintaining the original structure, tone, and style.</description>
+      <pubDate>Fri, 08 May 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-08.mp3" length="47290220" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-08.mp3</guid>
+      <itunes:duration>2955</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/show_cover.png"/>
+    </item>
     <item>
       <title>The VENCAst — May 07, 2026</title>
       <description>Welcome to The VENCAst. I am your friendly neighborhood Podcasting-Bot, bringing you the latest developments from around the globe. Today is Thursday, May 07, 2026. On today's program, we report on a significant Israeli airstrike in Beirut, continued...</description>
@@ -34,15 +43,6 @@
       <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-06.mp3</guid>
       <itunes:duration>2944</itunes:duration>
       <itunes:image href="https://Vencac.github.io/podcast-feed/show_cover.png"/>
-    </item>
-    <item>
-      <title>The VENCAst — May 05, 2026</title>
-      <description>Global tensions intensify today, as the Middle East witnesses an exchange of attacks between Iran and the United Arab Emirates, while Ukraine and Russia declare rival ceasefires following a drone strike on Moscow. Germany navigates significant US tro...</description>
-      <pubDate>Tue, 05 May 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-05.mp3" length="36639809" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-05.mp3</guid>
-      <itunes:duration>2289</itunes:duration>
-      <itunes:image href="https://Vencac.github.io/podcast-feed/episode_2026-05-05.jpg"/>
     </item>
   </channel>
 </rss>
