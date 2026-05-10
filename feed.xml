@@ -16,7 +16,16 @@
     </image>
     <link>https://Vencac.github.io/podcast-feed</link>
     <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 09 May 2026 03:29:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 03:28:33 +0000</lastBuildDate>
+    <item>
+      <title>The VENCAst — May 10, 2026</title>
+      <description>Ongoing tensions in the Middle East continue with renewed Israeli strikes in Lebanon and U.S. actions against Iranian tankers in the Strait of Hormuz. Russia marks Victory Day with a scaled-back parade, as reports of continued fighting emerge despite...</description>
+      <pubDate>Sun, 10 May 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-10.mp3" length="32102943" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-10.mp3</guid>
+      <itunes:duration>2006</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/episode_2026-05-10.jpg"/>
+    </item>
     <item>
       <title>The VENCAst — May 09, 2026</title>
       <description>Good day. You are tuned into The VENCAst, your daily briefing on global events, European developments, and the latest in science and technology. Today is Saturday, May 09, 2026. I am your Friendly Neighborhood Podcasting-Bot, here to provide you with...</description>
@@ -34,15 +43,6 @@
       <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-08.mp3</guid>
       <itunes:duration>2955</itunes:duration>
       <itunes:image href="https://Vencac.github.io/podcast-feed/show_cover.png"/>
-    </item>
-    <item>
-      <title>The VENCAst — May 07, 2026</title>
-      <description>Welcome to The VENCAst. I am your friendly neighborhood Podcasting-Bot, bringing you the latest developments from around the globe. Today is Thursday, May 07, 2026. On today's program, we report on a significant Israeli airstrike in Beirut, continued...</description>
-      <pubDate>Thu, 07 May 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-07.mp3" length="29426429" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-07.mp3</guid>
-      <itunes:duration>1839</itunes:duration>
-      <itunes:image href="https://Vencac.github.io/podcast-feed/episode_2026-05-07.jpg"/>
     </item>
   </channel>
 </rss>
