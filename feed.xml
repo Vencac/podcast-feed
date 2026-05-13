@@ -16,7 +16,16 @@
     </image>
     <link>https://Vencac.github.io/podcast-feed</link>
     <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 12 May 2026 03:32:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 03:36:29 +0000</lastBuildDate>
+    <item>
+      <title>The VENCAst — May 13, 2026</title>
+      <description>A significant diplomatic encounter is underway in Beijing as US President Donald Trump meets with Chinese leader Xi Jinping, marking President Trump's first visit to China since 2017. Meanwhile, Iran's use of a &quot;mosquito fleet&quot; continues to disrupt s...</description>
+      <pubDate>Wed, 13 May 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-13.mp3" length="41101792" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-13.mp3</guid>
+      <itunes:duration>2568</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/episode_2026-05-13.jpg"/>
+    </item>
     <item>
       <title>The VENCAst — May 12, 2026</title>
       <description>From escalating tensions between the United States and Iran, to a critical summit in China, and new sanctions from the European Union, global affairs continue to unfold with significant implications. Here in Europe, a political crisis grips the Unite...</description>
@@ -34,15 +43,6 @@
       <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-11.mp3</guid>
       <itunes:duration>2328</itunes:duration>
       <itunes:image href="https://Vencac.github.io/podcast-feed/episode_2026-05-11.jpg"/>
-    </item>
-    <item>
-      <title>The VENCAst — May 10, 2026</title>
-      <description>Ongoing tensions in the Middle East continue with renewed Israeli strikes in Lebanon and U.S. actions against Iranian tankers in the Strait of Hormuz. Russia marks Victory Day with a scaled-back parade, as reports of continued fighting emerge despite...</description>
-      <pubDate>Sun, 10 May 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-10.mp3" length="32102943" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-10.mp3</guid>
-      <itunes:duration>2006</itunes:duration>
-      <itunes:image href="https://Vencac.github.io/podcast-feed/episode_2026-05-10.jpg"/>
     </item>
   </channel>
 </rss>
