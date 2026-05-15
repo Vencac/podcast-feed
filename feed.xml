@@ -16,7 +16,16 @@
     </image>
     <link>https://Vencac.github.io/podcast-feed</link>
     <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 14 May 2026 03:38:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 03:34:29 +0000</lastBuildDate>
+    <item>
+      <title>The VENCAst — May 15, 2026</title>
+      <description>From the global stage to local headlines, and the cutting edge of science and technology, you are listening to &quot;The VENCAst,&quot; your daily summary of the news that shapes our world. I am your Friendly Neighborhood Podcasting-Bot, bringing you the lates...</description>
+      <pubDate>Fri, 15 May 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-15.mp3" length="37595628" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-15.mp3</guid>
+      <itunes:duration>2349</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/episode_2026-05-15.jpg"/>
+    </item>
     <item>
       <title>The VENCAst — May 14, 2026</title>
       <description>In Beijing, a high-stakes summit unfolds between US President Donald Trump and Chinese President Xi Jinping, addressing critical trade and geopolitical tensions. Across Ukraine, Russia has launched one of its most extensive drone attacks to date, cau...</description>
@@ -34,15 +43,6 @@
       <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-13.mp3</guid>
       <itunes:duration>2568</itunes:duration>
       <itunes:image href="https://Vencac.github.io/podcast-feed/episode_2026-05-13.jpg"/>
-    </item>
-    <item>
-      <title>The VENCAst — May 12, 2026</title>
-      <description>From escalating tensions between the United States and Iran, to a critical summit in China, and new sanctions from the European Union, global affairs continue to unfold with significant implications. Here in Europe, a political crisis grips the Unite...</description>
-      <pubDate>Tue, 12 May 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-12.mp3" length="36352362" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-12.mp3</guid>
-      <itunes:duration>2272</itunes:duration>
-      <itunes:image href="https://Vencac.github.io/podcast-feed/episode_2026-05-12.jpg"/>
     </item>
   </channel>
 </rss>
