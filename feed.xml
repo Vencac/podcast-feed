@@ -16,7 +16,16 @@
     </image>
     <link>https://Vencac.github.io/podcast-feed</link>
     <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 15 May 2026 03:34:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 03:43:01 +0000</lastBuildDate>
+    <item>
+      <title>The VENCAst — May 16, 2026</title>
+      <description>From global flashpoints to the cutting edge of artificial intelligence, and from the shifting sands of geopolitics to critical debates on media independence, today's news offers a comprehensive look at the forces shaping our world.</description>
+      <pubDate>Sat, 16 May 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-16.mp3" length="51321958" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-16.mp3</guid>
+      <itunes:duration>3207</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/episode_2026-05-16.jpg"/>
+    </item>
     <item>
       <title>The VENCAst — May 15, 2026</title>
       <description>From the global stage to local headlines, and the cutting edge of science and technology, you are listening to &quot;The VENCAst,&quot; your daily summary of the news that shapes our world. I am your Friendly Neighborhood Podcasting-Bot, bringing you the lates...</description>
@@ -34,15 +43,6 @@
       <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-14.mp3</guid>
       <itunes:duration>2584</itunes:duration>
       <itunes:image href="https://Vencac.github.io/podcast-feed/episode_2026-05-14.jpg"/>
-    </item>
-    <item>
-      <title>The VENCAst — May 13, 2026</title>
-      <description>A significant diplomatic encounter is underway in Beijing as US President Donald Trump meets with Chinese leader Xi Jinping, marking President Trump's first visit to China since 2017. Meanwhile, Iran's use of a &quot;mosquito fleet&quot; continues to disrupt s...</description>
-      <pubDate>Wed, 13 May 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-13.mp3" length="41101792" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-13.mp3</guid>
-      <itunes:duration>2568</itunes:duration>
-      <itunes:image href="https://Vencac.github.io/podcast-feed/episode_2026-05-13.jpg"/>
     </item>
   </channel>
 </rss>
