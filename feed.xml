@@ -16,7 +16,16 @@
     </image>
     <link>https://Vencac.github.io/podcast-feed</link>
     <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 16 May 2026 03:43:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 03:40:53 +0000</lastBuildDate>
+    <item>
+      <title>The VENCAst — May 17, 2026</title>
+      <description>A complex web of geopolitical tensions continues to unfold across the globe, from the Middle East, where a fragile ceasefire holds amidst targeted strikes and evolving drone warfare, to East Asia, where a US President's statements have prompted a sov...</description>
+      <pubDate>Sun, 17 May 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-17.mp3" length="53449182" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-17.mp3</guid>
+      <itunes:duration>3340</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/episode_2026-05-17.jpg"/>
+    </item>
     <item>
       <title>The VENCAst — May 16, 2026</title>
       <description>From global flashpoints to the cutting edge of artificial intelligence, and from the shifting sands of geopolitics to critical debates on media independence, today's news offers a comprehensive look at the forces shaping our world.</description>
@@ -34,15 +43,6 @@
       <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-15.mp3</guid>
       <itunes:duration>2349</itunes:duration>
       <itunes:image href="https://Vencac.github.io/podcast-feed/episode_2026-05-15.jpg"/>
-    </item>
-    <item>
-      <title>The VENCAst — May 14, 2026</title>
-      <description>In Beijing, a high-stakes summit unfolds between US President Donald Trump and Chinese President Xi Jinping, addressing critical trade and geopolitical tensions. Across Ukraine, Russia has launched one of its most extensive drone attacks to date, cau...</description>
-      <pubDate>Thu, 14 May 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-14.mp3" length="41355740" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-14.mp3</guid>
-      <itunes:duration>2584</itunes:duration>
-      <itunes:image href="https://Vencac.github.io/podcast-feed/episode_2026-05-14.jpg"/>
     </item>
   </channel>
 </rss>
