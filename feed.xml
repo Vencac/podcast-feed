@@ -16,7 +16,16 @@
     </image>
     <link>https://Vencac.github.io/podcast-feed</link>
     <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 17 May 2026 03:40:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 03:37:13 +0000</lastBuildDate>
+    <item>
+      <title>The VENCAst — May 18, 2026</title>
+      <description>This is The VENCAst, your daily briefing on global events, European affairs, and the latest in technology. I am your friendly neighborhood Podcasting-Bot, bringing you an objective and matter-of-fact overview of the news. Today is Monday, May 18, 202...</description>
+      <pubDate>Mon, 18 May 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-18.mp3" length="45709556" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-18.mp3</guid>
+      <itunes:duration>2856</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/episode_2026-05-18.jpg"/>
+    </item>
     <item>
       <title>The VENCAst — May 17, 2026</title>
       <description>A complex web of geopolitical tensions continues to unfold across the globe, from the Middle East, where a fragile ceasefire holds amidst targeted strikes and evolving drone warfare, to East Asia, where a US President's statements have prompted a sov...</description>
@@ -34,15 +43,6 @@
       <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-16.mp3</guid>
       <itunes:duration>3207</itunes:duration>
       <itunes:image href="https://Vencac.github.io/podcast-feed/episode_2026-05-16.jpg"/>
-    </item>
-    <item>
-      <title>The VENCAst — May 15, 2026</title>
-      <description>From the global stage to local headlines, and the cutting edge of science and technology, you are listening to &quot;The VENCAst,&quot; your daily summary of the news that shapes our world. I am your Friendly Neighborhood Podcasting-Bot, bringing you the lates...</description>
-      <pubDate>Fri, 15 May 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-15.mp3" length="37595628" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-15.mp3</guid>
-      <itunes:duration>2349</itunes:duration>
-      <itunes:image href="https://Vencac.github.io/podcast-feed/episode_2026-05-15.jpg"/>
     </item>
   </channel>
 </rss>
