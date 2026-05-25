@@ -16,7 +16,16 @@
     </image>
     <link>https://Vencac.github.io/podcast-feed</link>
     <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 24 May 2026 03:39:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 04:20:53 +0000</lastBuildDate>
+    <item>
+      <title>The VENCAst — May 25, 2026</title>
+      <description>A large-scale Russian assault targets Ukraine, with Kyiv facing an extensive barrage of drones and hypersonic missiles. In the Middle East, the United States signals caution on an Iran peace deal amidst internal divisions, while Turkey sees riot poli...</description>
+      <pubDate>Mon, 25 May 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-25.mp3" length="127974900" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-25.mp3</guid>
+      <itunes:duration>7998</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/episode_2026-05-25.jpg"/>
+    </item>
     <item>
       <title>The VENCAst — May 24, 2026</title>
       <description>From the diplomatic stage where a new Iran peace deal is taking shape, to the battlefields of Ukraine where a deadly dormitory strike sparks accusations and vows of retaliation. We will also examine European efforts to 'Trump-proof' NATO, a warning f...</description>
@@ -34,15 +43,6 @@
       <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-21.mp3</guid>
       <itunes:duration>2757</itunes:duration>
       <itunes:image href="https://Vencac.github.io/podcast-feed/show_cover.png"/>
-    </item>
-    <item>
-      <title>The VENCAst — May 20, 2026</title>
-      <description>Russian forces have launched deadly strikes across Ukraine, while a NATO F-16 has intercepted a drone over Estonia. Meanwhile, Chinese President Xi Jinping (SHEE jin-PING) has reportedly shared a warning with former US President Donald Trump regardin...</description>
-      <pubDate>Wed, 20 May 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-20.mp3" length="39871975" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-20.mp3</guid>
-      <itunes:duration>2491</itunes:duration>
-      <itunes:image href="https://Vencac.github.io/podcast-feed/episode_2026-05-20.jpg"/>
     </item>
   </channel>
 </rss>
