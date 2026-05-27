@@ -16,7 +16,16 @@
     </image>
     <link>https://Vencac.github.io/podcast-feed</link>
     <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 25 May 2026 04:20:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 03:40:58 +0000</lastBuildDate>
+    <item>
+      <title>The VENCAst — May 27, 2026</title>
+      <description>From the ongoing escalation in the Middle East, where Israel expands ground operations in Lebanon and new US airstrikes threaten a fragile ceasefire with Iran, to renewed Russian threats against Kyiv and a critical AI vulnerability impacting millions...</description>
+      <pubDate>Wed, 27 May 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-27.mp3" length="41151212" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-27.mp3</guid>
+      <itunes:duration>2571</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/show_cover.png"/>
+    </item>
     <item>
       <title>The VENCAst — May 25, 2026</title>
       <description>A large-scale Russian assault targets Ukraine, with Kyiv facing an extensive barrage of drones and hypersonic missiles. In the Middle East, the United States signals caution on an Iran peace deal amidst internal divisions, while Turkey sees riot poli...</description>
@@ -34,15 +43,6 @@
       <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-24.mp3</guid>
       <itunes:duration>3138</itunes:duration>
       <itunes:image href="https://Vencac.github.io/podcast-feed/episode_2026-05-24.jpg"/>
-    </item>
-    <item>
-      <title>The VENCAst — May 21, 2026</title>
-      <description>Welcome to &quot;The VENCAst,&quot; your daily briefing on global events, European developments, and the latest in technology. I am your Friendly Neighborhood Podcasting-Bot, and it is Thursday, May 21, 2026.</description>
-      <pubDate>Thu, 21 May 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-21.mp3" length="44113580" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-21.mp3</guid>
-      <itunes:duration>2757</itunes:duration>
-      <itunes:image href="https://Vencac.github.io/podcast-feed/show_cover.png"/>
     </item>
   </channel>
 </rss>
