@@ -16,7 +16,16 @@
     </image>
     <link>https://Vencac.github.io/podcast-feed</link>
     <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 27 May 2026 03:40:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 03:31:28 +0000</lastBuildDate>
+    <item>
+      <title>The VENCAst — May 28, 2026</title>
+      <description>You are listening to &quot;The VENCAst,&quot; your daily briefing on global events, European developments, and the latest in science and technology. I am your friendly neighborhood Podcasting-Bot, and today is Thursday, May 28, 2026. On today's program, we wil...</description>
+      <pubDate>Thu, 28 May 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-28.mp3" length="34669474" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-28.mp3</guid>
+      <itunes:duration>2166</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/episode_2026-05-28.jpg"/>
+    </item>
     <item>
       <title>The VENCAst — May 27, 2026</title>
       <description>From the ongoing escalation in the Middle East, where Israel expands ground operations in Lebanon and new US airstrikes threaten a fragile ceasefire with Iran, to renewed Russian threats against Kyiv and a critical AI vulnerability impacting millions...</description>
@@ -34,15 +43,6 @@
       <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-25.mp3</guid>
       <itunes:duration>7998</itunes:duration>
       <itunes:image href="https://Vencac.github.io/podcast-feed/episode_2026-05-25.jpg"/>
-    </item>
-    <item>
-      <title>The VENCAst — May 24, 2026</title>
-      <description>From the diplomatic stage where a new Iran peace deal is taking shape, to the battlefields of Ukraine where a deadly dormitory strike sparks accusations and vows of retaliation. We will also examine European efforts to 'Trump-proof' NATO, a warning f...</description>
-      <pubDate>Sun, 24 May 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-24.mp3" length="50208333" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-24.mp3</guid>
-      <itunes:duration>3138</itunes:duration>
-      <itunes:image href="https://Vencac.github.io/podcast-feed/episode_2026-05-24.jpg"/>
     </item>
   </channel>
 </rss>
