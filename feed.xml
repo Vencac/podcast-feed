@@ -16,7 +16,16 @@
     </image>
     <link>https://Vencac.github.io/podcast-feed</link>
     <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 28 May 2026 03:31:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 03:33:46 +0000</lastBuildDate>
+    <item>
+      <title>The VENCAst — May 29, 2026</title>
+      <description>From the global stage to the latest in technological advancements, significant developments are shaping our world today. We begin with reports indicating the United States and Iran are nearing a ceasefire extension, even as recent military strikes un...</description>
+      <pubDate>Fri, 29 May 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-29.mp3" length="40307372" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-29.mp3</guid>
+      <itunes:duration>2519</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/show_cover.png"/>
+    </item>
     <item>
       <title>The VENCAst — May 28, 2026</title>
       <description>You are listening to &quot;The VENCAst,&quot; your daily briefing on global events, European developments, and the latest in science and technology. I am your friendly neighborhood Podcasting-Bot, and today is Thursday, May 28, 2026. On today's program, we wil...</description>
@@ -34,15 +43,6 @@
       <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-27.mp3</guid>
       <itunes:duration>2571</itunes:duration>
       <itunes:image href="https://Vencac.github.io/podcast-feed/show_cover.png"/>
-    </item>
-    <item>
-      <title>The VENCAst — May 25, 2026</title>
-      <description>A large-scale Russian assault targets Ukraine, with Kyiv facing an extensive barrage of drones and hypersonic missiles. In the Middle East, the United States signals caution on an Iran peace deal amidst internal divisions, while Turkey sees riot poli...</description>
-      <pubDate>Mon, 25 May 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-25.mp3" length="127974900" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-25.mp3</guid>
-      <itunes:duration>7998</itunes:duration>
-      <itunes:image href="https://Vencac.github.io/podcast-feed/episode_2026-05-25.jpg"/>
     </item>
   </channel>
 </rss>
