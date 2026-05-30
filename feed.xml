@@ -16,7 +16,16 @@
     </image>
     <link>https://Vencac.github.io/podcast-feed</link>
     <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 29 May 2026 07:01:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 03:33:55 +0000</lastBuildDate>
+    <item>
+      <title>The VENCAst — May 30, 2026</title>
+      <description>A Russian drone strikes a residential building in Romania, prompting calls for accelerated air defense deliveries. Poland and Ukraine clash over the naming of a military unit, reigniting historical tensions. In the European Union, a significant unfre...</description>
+      <pubDate>Sat, 30 May 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-30.mp3" length="31408421" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-30.mp3</guid>
+      <itunes:duration>1963</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/episode_2026-05-30.jpg"/>
+    </item>
     <item>
       <title>The VENCAst — May 29, 2026</title>
       <description>From the global stage to the latest in technological advancements, significant developments are shaping our world today. We begin with reports indicating the United States and Iran are nearing a ceasefire extension, even as recent military strikes un...</description>
@@ -34,15 +43,6 @@
       <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-28.mp3</guid>
       <itunes:duration>2166</itunes:duration>
       <itunes:image href="https://Vencac.github.io/podcast-feed/episode_2026-05-28.jpg"/>
-    </item>
-    <item>
-      <title>The VENCAst — May 27, 2026</title>
-      <description>From the ongoing escalation in the Middle East, where Israel expands ground operations in Lebanon and new US airstrikes threaten a fragile ceasefire with Iran, to renewed Russian threats against Kyiv and a critical AI vulnerability impacting millions...</description>
-      <pubDate>Wed, 27 May 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-27.mp3" length="41151212" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-27.mp3</guid>
-      <itunes:duration>2571</itunes:duration>
-      <itunes:image href="https://Vencac.github.io/podcast-feed/show_cover.png"/>
     </item>
   </channel>
 </rss>
