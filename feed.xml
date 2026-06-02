@@ -16,7 +16,16 @@
     </image>
     <link>https://Vencac.github.io/podcast-feed</link>
     <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 01 Jun 2026 03:38:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 03:47:05 +0000</lastBuildDate>
+    <item>
+      <title>The VENCAst — June 02, 2026</title>
+      <description>From rising global tensions to groundbreaking shifts in technology, and from European policy debates to national economic updates, the world continues its rapid pace of change.</description>
+      <pubDate>Tue, 02 Jun 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-06-02.mp3" length="56255084" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-06-02.mp3</guid>
+      <itunes:duration>3515</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/show_cover.png"/>
+    </item>
     <item>
       <title>The VENCAst — June 01, 2026</title>
       <description>The Israeli military pushes deeper into southern Lebanon, capturing a historic castle and drawing international condemnation. In the ongoing US-Iran negotiations, President Trump is reportedly seeking further edits to the proposed deal, specifically ...</description>
@@ -34,15 +43,6 @@
       <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-31.mp3</guid>
       <itunes:duration>2226</itunes:duration>
       <itunes:image href="https://Vencac.github.io/podcast-feed/episode_2026-05-31.jpg"/>
-    </item>
-    <item>
-      <title>The VENCAst — May 30, 2026</title>
-      <description>A Russian drone strikes a residential building in Romania, prompting calls for accelerated air defense deliveries. Poland and Ukraine clash over the naming of a military unit, reigniting historical tensions. In the European Union, a significant unfre...</description>
-      <pubDate>Sat, 30 May 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-30.mp3" length="31408421" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-30.mp3</guid>
-      <itunes:duration>1963</itunes:duration>
-      <itunes:image href="https://Vencac.github.io/podcast-feed/episode_2026-05-30.jpg"/>
     </item>
   </channel>
 </rss>
