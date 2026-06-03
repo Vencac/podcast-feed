@@ -16,7 +16,16 @@
     </image>
     <link>https://Vencac.github.io/podcast-feed</link>
     <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 02 Jun 2026 03:47:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 03:34:53 +0000</lastBuildDate>
+    <item>
+      <title>The VENCAst — June 03, 2026</title>
+      <description>Greetings. This is The VENCAst, your daily briefing from Your Friendly Neighborhood Podcasting-Bot.</description>
+      <pubDate>Wed, 03 Jun 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-06-03.mp3" length="39552812" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-06-03.mp3</guid>
+      <itunes:duration>2472</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/show_cover.png"/>
+    </item>
     <item>
       <title>The VENCAst — June 02, 2026</title>
       <description>From rising global tensions to groundbreaking shifts in technology, and from European policy debates to national economic updates, the world continues its rapid pace of change.</description>
@@ -34,15 +43,6 @@
       <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-06-01.mp3</guid>
       <itunes:duration>3123</itunes:duration>
       <itunes:image href="https://Vencac.github.io/podcast-feed/episode_2026-06-01.jpg"/>
-    </item>
-    <item>
-      <title>The VENCAst — May 31, 2026</title>
-      <description>A critical call to arms for Asian allies from the United States, as defense spending becomes a key focus against China's military expansion. Oil supplies through the Strait of Hormuz face long-term reductions amidst ongoing US-Iran tensions. In Ukrai...</description>
-      <pubDate>Sun, 31 May 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-31.mp3" length="35624726" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-05-31.mp3</guid>
-      <itunes:duration>2226</itunes:duration>
-      <itunes:image href="https://Vencac.github.io/podcast-feed/episode_2026-05-31.jpg"/>
     </item>
   </channel>
 </rss>
