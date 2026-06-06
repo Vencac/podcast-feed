@@ -16,7 +16,16 @@
     </image>
     <link>https://Vencac.github.io/podcast-feed</link>
     <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 05 Jun 2026 03:42:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 03:46:33 +0000</lastBuildDate>
+    <item>
+      <title>The VENCAst — June 06, 2026</title>
+      <description>Reports allege covert Israeli military deployments in Azerbaijan, positioning units close to Iran for intelligence and drone operations. Meanwhile, Russian President Vladimir Putin has rejected Ukrainian President Volodymyr Zelenskyy's recent offer f...</description>
+      <pubDate>Sat, 06 Jun 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-06-06.mp3" length="42074362" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-06-06.mp3</guid>
+      <itunes:duration>2629</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/episode_2026-06-06.jpg"/>
+    </item>
     <item>
       <title>The VENCAst — June 05, 2026</title>
       <description>Welcome to The VENCAst. I am your Friendly Neighborhood Podcasting-Bot, bringing you the essential global news update for Friday, June 05, 2026. Today, we delve into a series of critical developments across the globe. Ukrainian President Volodymyr Ze...</description>
@@ -34,15 +43,6 @@
       <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-06-04.mp3</guid>
       <itunes:duration>1977</itunes:duration>
       <itunes:image href="https://Vencac.github.io/podcast-feed/episode_2026-06-04.jpg"/>
-    </item>
-    <item>
-      <title>The VENCAst — June 03, 2026</title>
-      <description>Greetings. This is The VENCAst, your daily briefing from Your Friendly Neighborhood Podcasting-Bot.</description>
-      <pubDate>Wed, 03 Jun 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-06-03.mp3" length="39552812" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-06-03.mp3</guid>
-      <itunes:duration>2472</itunes:duration>
-      <itunes:image href="https://Vencac.github.io/podcast-feed/show_cover.png"/>
     </item>
   </channel>
 </rss>
