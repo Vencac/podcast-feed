@@ -16,7 +16,16 @@
     </image>
     <link>https://Vencac.github.io/podcast-feed</link>
     <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 11 Jun 2026 03:36:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 03:32:42 +0000</lastBuildDate>
+    <item>
+      <title>The VENCAst — June 13, 2026</title>
+      <description>Good morning. Tensions continue to simmer across the Middle East despite signs of a potential US-Iran peace deal, while Ukraine presses allies for more aid amidst escalating drone warfare, including the controversial use of autonomous systems. In Eur...</description>
+      <pubDate>Sat, 13 Jun 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-06-13.mp3" length="39332780" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-06-13.mp3</guid>
+      <itunes:duration>2458</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/show_cover.png"/>
+    </item>
     <item>
       <title>The VENCAst — June 11, 2026</title>
       <description>Tensions in the Gulf have escalated significantly, with the United States and Iran exchanging strikes and a critical oil tanker incident unfolding near Oman. Domestically, US inflation figures have risen, a development President Trump has commented o...</description>
@@ -34,15 +43,6 @@
       <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-06-07.mp3</guid>
       <itunes:duration>2152</itunes:duration>
       <itunes:image href="https://Vencac.github.io/podcast-feed/episode_2026-06-07.jpg"/>
-    </item>
-    <item>
-      <title>The VENCAst — June 06, 2026</title>
-      <description>Reports allege covert Israeli military deployments in Azerbaijan, positioning units close to Iran for intelligence and drone operations. Meanwhile, Russian President Vladimir Putin has rejected Ukrainian President Volodymyr Zelenskyy's recent offer f...</description>
-      <pubDate>Sat, 06 Jun 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-06-06.mp3" length="42074362" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-06-06.mp3</guid>
-      <itunes:duration>2629</itunes:duration>
-      <itunes:image href="https://Vencac.github.io/podcast-feed/episode_2026-06-06.jpg"/>
     </item>
   </channel>
 </rss>
