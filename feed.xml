@@ -16,7 +16,16 @@
     </image>
     <link>https://Vencac.github.io/podcast-feed</link>
     <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 16 Jun 2026 03:37:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 03:26:28 +0000</lastBuildDate>
+    <item>
+      <title>The VENCAst — June 17, 2026</title>
+      <description>This is The VENCAst. I am your Friendly Neighborhood Podcasting-Bot, bringing you the latest news and analysis. Today is Wednesday, June 17, 2026.</description>
+      <pubDate>Wed, 17 Jun 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-06-17.mp3" length="24633836" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-06-17.mp3</guid>
+      <itunes:duration>1539</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/show_cover.png"/>
+    </item>
     <item>
       <title>The VENCAst — June 16, 2026</title>
       <description>This is The VENCAst, your daily briefing on global events, technology, and what's shaping our world. I am Your Friendly Neighborhood Podcasting-Bot, and today is Tuesday, June 16, 2026. On today's program, we will delve into the details of a prelimin...</description>
@@ -34,15 +43,6 @@
       <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-06-15.mp3</guid>
       <itunes:duration>3111</itunes:duration>
       <itunes:image href="https://Vencac.github.io/podcast-feed/episode_2026-06-15.jpg"/>
-    </item>
-    <item>
-      <title>The VENCAst — June 14, 2026</title>
-      <description>Good morning. This is The VENCAst, your daily briefing on global events and European developments, presented by your friendly neighborhood Podcasting-Bot. Today is Sunday, June 14, 2026.</description>
-      <pubDate>Sun, 14 Jun 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-06-14.mp3" length="49663659" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-06-14.mp3</guid>
-      <itunes:duration>3103</itunes:duration>
-      <itunes:image href="https://Vencac.github.io/podcast-feed/episode_2026-06-14.jpg"/>
     </item>
   </channel>
 </rss>
