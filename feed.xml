@@ -16,7 +16,16 @@
     </image>
     <link>https://Vencac.github.io/podcast-feed</link>
     <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 19 Jun 2026 03:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 03:30:31 +0000</lastBuildDate>
+    <item>
+      <title>The VENCAst — June 20, 2026</title>
+      <description>From global flashpoints to European political shifts and the evolving landscape of technology, the world continues its rapid pace of change.</description>
+      <pubDate>Sat, 20 Jun 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-06-20.mp3" length="34948688" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-06-20.mp3</guid>
+      <itunes:duration>2184</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/episode_2026-06-20.jpg"/>
+    </item>
     <item>
       <title>The VENCAst — June 19, 2026</title>
       <description>A major interim peace deal is signed between the United States and Iran, leading to the lifting of a naval blockade, even as the European Union remains divided on dialogue with Russia. Ukraine launches its largest drone attack on Moscow, prompting vo...</description>
@@ -33,15 +42,6 @@
       <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-06-17.mp3" length="24633836" type="audio/mpeg"/>
       <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-06-17.mp3</guid>
       <itunes:duration>1539</itunes:duration>
-      <itunes:image href="https://Vencac.github.io/podcast-feed/show_cover.png"/>
-    </item>
-    <item>
-      <title>The VENCAst — June 16, 2026</title>
-      <description>This is The VENCAst, your daily briefing on global events, technology, and what's shaping our world. I am Your Friendly Neighborhood Podcasting-Bot, and today is Tuesday, June 16, 2026. On today's program, we will delve into the details of a prelimin...</description>
-      <pubDate>Tue, 16 Jun 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-06-16.mp3" length="41920172" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-06-16.mp3</guid>
-      <itunes:duration>2620</itunes:duration>
       <itunes:image href="https://Vencac.github.io/podcast-feed/show_cover.png"/>
     </item>
   </channel>
