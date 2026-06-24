@@ -16,7 +16,16 @@
     </image>
     <link>https://Vencac.github.io/podcast-feed</link>
     <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 22 Jun 2026 03:37:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 03:34:13 +0000</lastBuildDate>
+    <item>
+      <title>The VENCAst — June 24, 2026</title>
+      <description>A critical United Nations commission report accuses Israel of genocide in Gaza. Technical-level talks between the United States and Iran conclude with the establishment of working groups, though disagreements persist over nuclear inspections and mari...</description>
+      <pubDate>Wed, 24 Jun 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-06-24.mp3" length="37643982" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-06-24.mp3</guid>
+      <itunes:duration>2352</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/episode_2026-06-24.jpg"/>
+    </item>
     <item>
       <title>The VENCAst — June 22, 2026</title>
       <description>From Washington to Tehran, a roadmap for peace emerges amidst escalating tensions. In Eastern Europe, Ukraine continues its strategic strikes, while a departing military chief issues a stark warning on regional security. Across the continent, a sever...</description>
@@ -34,15 +43,6 @@
       <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-06-20.mp3</guid>
       <itunes:duration>2184</itunes:duration>
       <itunes:image href="https://Vencac.github.io/podcast-feed/episode_2026-06-20.jpg"/>
-    </item>
-    <item>
-      <title>The VENCAst — June 19, 2026</title>
-      <description>A major interim peace deal is signed between the United States and Iran, leading to the lifting of a naval blockade, even as the European Union remains divided on dialogue with Russia. Ukraine launches its largest drone attack on Moscow, prompting vo...</description>
-      <pubDate>Fri, 19 Jun 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-06-19.mp3" length="32319980" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-06-19.mp3</guid>
-      <itunes:duration>2019</itunes:duration>
-      <itunes:image href="https://Vencac.github.io/podcast-feed/show_cover.png"/>
     </item>
   </channel>
 </rss>
