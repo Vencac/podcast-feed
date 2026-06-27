@@ -16,7 +16,16 @@
     </image>
     <link>https://Vencac.github.io/podcast-feed</link>
     <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 26 Jun 2026 03:39:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 03:41:09 +0000</lastBuildDate>
+    <item>
+      <title>The VENCAst — June 27, 2026</title>
+      <description>From a critical escalation in the Strait of Hormuz to a landmark peace agreement between Israel and Lebanon, and from Europe's unprecedented heatwave to significant shifts in AI regulation, these are the headlines shaping our world.</description>
+      <pubDate>Sat, 27 Jun 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-06-27.mp3" length="42373547" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-06-27.mp3</guid>
+      <itunes:duration>2648</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/episode_2026-06-27.jpg"/>
+    </item>
     <item>
       <title>The VENCAst — June 26, 2026</title>
       <description>A seismic doublet devastates Venezuela, prompting a global humanitarian response. The U.S. Supreme Court clears the path for stricter immigration policies, while new tensions rise in the Strait of Hormuz after a cargo ship attack. Europe grapples wit...</description>
@@ -34,15 +43,6 @@
       <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-06-25.mp3</guid>
       <itunes:duration>2678</itunes:duration>
       <itunes:image href="https://Vencac.github.io/podcast-feed/show_cover.png"/>
-    </item>
-    <item>
-      <title>The VENCAst — June 24, 2026</title>
-      <description>A critical United Nations commission report accuses Israel of genocide in Gaza. Technical-level talks between the United States and Iran conclude with the establishment of working groups, though disagreements persist over nuclear inspections and mari...</description>
-      <pubDate>Wed, 24 Jun 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-06-24.mp3" length="37643982" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-06-24.mp3</guid>
-      <itunes:duration>2352</itunes:duration>
-      <itunes:image href="https://Vencac.github.io/podcast-feed/episode_2026-06-24.jpg"/>
     </item>
   </channel>
 </rss>
