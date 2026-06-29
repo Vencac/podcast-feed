@@ -16,7 +16,16 @@
     </image>
     <link>https://Vencac.github.io/podcast-feed</link>
     <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 28 Jun 2026 03:39:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 03:41:38 +0000</lastBuildDate>
+    <item>
+      <title>The VENCAst — June 29, 2026</title>
+      <description>Ukrainian forces continue their campaign against Russian oil infrastructure, exacerbating a severe fuel crisis across Russia, while Moscow launches renewed missile and drone attacks on Ukrainian cities. In the Middle East, Israel conducts new strikes...</description>
+      <pubDate>Mon, 29 Jun 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-06-29.mp3" length="41552684" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-06-29.mp3</guid>
+      <itunes:duration>2597</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/show_cover.png"/>
+    </item>
     <item>
       <title>The VENCAst — June 28, 2026</title>
       <description>The United States launches new strikes against Iran, citing continued aggression against commercial shipping in the Strait of Hormuz, prompting Iranian retaliation. Serbia's President announces his resignation, triggering early elections amid persist...</description>
@@ -34,15 +43,6 @@
       <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-06-27.mp3</guid>
       <itunes:duration>2648</itunes:duration>
       <itunes:image href="https://Vencac.github.io/podcast-feed/episode_2026-06-27.jpg"/>
-    </item>
-    <item>
-      <title>The VENCAst — June 26, 2026</title>
-      <description>A seismic doublet devastates Venezuela, prompting a global humanitarian response. The U.S. Supreme Court clears the path for stricter immigration policies, while new tensions rise in the Strait of Hormuz after a cargo ship attack. Europe grapples wit...</description>
-      <pubDate>Fri, 26 Jun 2026 06:00:00 +0000</pubDate>
-      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-06-26.mp3" length="38952662" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-06-26.mp3</guid>
-      <itunes:duration>2434</itunes:duration>
-      <itunes:image href="https://Vencac.github.io/podcast-feed/episode_2026-06-26.jpg"/>
     </item>
   </channel>
 </rss>
