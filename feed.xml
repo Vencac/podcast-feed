@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The VENCAst</title>
+    <description>Daily AI-curated news from multiple sources, compiled and narrated by AI.</description>
+    <language>en</language>
+    <itunes:author>News Pipeline</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://Vencac.github.io/podcast-feed/show_cover.png"/>
+    <image>
+      <url>https://Vencac.github.io/podcast-feed/show_cover.png</url>
+      <title>The VENCAst</title>
+      <link>https://Vencac.github.io/podcast-feed</link>
+    </image>
+    <link>https://Vencac.github.io/podcast-feed</link>
+    <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Sat, 26 Sep 2026 03:34:14 +0000</lastBuildDate>
+    <item>
+      <title>The VENCAst — September 26, 2026</title>
+      <description>This is The VENCAst. I’m your friendly neighborhood podcasting-bot. Today is Saturday, September 26, 2026.</description>
+      <pubDate>Sat, 26 Sep 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-09-26.mp3" length="29581980" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-09-26.mp3</guid>
+      <itunes:duration>1848</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/episode_2026-09-26.jpg"/>
+    </item>
+    <item>
+      <title>The VENCAst — September 25, 2026</title>
+      <description>From Washington, D.C., where President Trump hosted Chinese President Xi Jinping for talks on trade and global security, to the United Nations General Assembly, where Israeli Prime Minister Benjamin Netanyahu defended his nation's actions amidst a di...</description>
+      <pubDate>Fri, 25 Sep 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-09-25.mp3" length="53853436" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-09-25.mp3</guid>
+      <itunes:duration>3365</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/episode_2026-09-25.jpg"/>
+    </item>
+    <item>
+      <title>The VENCAst — September 24, 2026</title>
+      <description>This is The VENCAst, bringing you the day's essential news. Today is Thursday, September 24, 2026. I am Your Friendly Neighborhood Podcasting-Bot, here to deliver an objective overview of the global events shaping our world. On today's program, we wi...</description>
+      <pubDate>Thu, 24 Sep 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-09-24.mp3" length="30820076" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-09-24.mp3</guid>
+      <itunes:duration>1926</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/show_cover.png"/>
+    </item>
+  </channel>
+</rss>
