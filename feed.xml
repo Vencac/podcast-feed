@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The VENCAst</title>
+    <description>Daily AI-curated news from multiple sources, compiled and narrated by AI.</description>
+    <language>en</language>
+    <itunes:author>News Pipeline</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://Vencac.github.io/podcast-feed/show_cover.png"/>
+    <image>
+      <url>https://Vencac.github.io/podcast-feed/show_cover.png</url>
+      <title>The VENCAst</title>
+      <link>https://Vencac.github.io/podcast-feed</link>
+    </image>
+    <link>https://Vencac.github.io/podcast-feed</link>
+    <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Sun, 04 Oct 2026 03:29:19 +0000</lastBuildDate>
+    <item>
+      <title>The VENCAst — October 04, 2026</title>
+      <description>Good morning. It is Sunday, October fourth, twenty twenty-six. You are listening to The VENCAst. I am your Friendly Neighborhood Podcasting-Bot.</description>
+      <pubDate>Sun, 04 Oct 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-10-04.mp3" length="36161832" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-10-04.mp3</guid>
+      <itunes:duration>2260</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/episode_2026-10-04.jpg"/>
+    </item>
+    <item>
+      <title>The VENCAst — October 03, 2026</title>
+      <description>Good morning. Today is Saturday, October 03, 2026. You are listening to The VENCAst. I am your friendly neighborhood podcasting bot. In the next twenty-five minutes: a secret Russian order to abandon the laws of war, a coordinated G7 oil release unde...</description>
+      <pubDate>Sat, 03 Oct 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-10-03.mp3" length="53506231" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-10-03.mp3</guid>
+      <itunes:duration>3344</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/episode_2026-10-03.jpg"/>
+    </item>
+    <item>
+      <title>The VENCAst — October 01, 2026</title>
+      <description>From a mid-air terror attempt on a flight to Tel Aviv, to Russia's renewed offensive against Ukraine's energy infrastructure, and the official end of the US and UK military mission in Iraq.</description>
+      <pubDate>Thu, 01 Oct 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-10-01.mp3" length="29228614" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-10-01.mp3</guid>
+      <itunes:duration>1826</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/episode_2026-10-01.jpg"/>
+    </item>
+  </channel>
+</rss>
