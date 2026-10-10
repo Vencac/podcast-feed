@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The VENCAst</title>
+    <description>Daily AI-curated news from multiple sources, compiled and narrated by AI.</description>
+    <language>en</language>
+    <itunes:author>News Pipeline</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://Vencac.github.io/podcast-feed/show_cover.png"/>
+    <image>
+      <url>https://Vencac.github.io/podcast-feed/show_cover.png</url>
+      <title>The VENCAst</title>
+      <link>https://Vencac.github.io/podcast-feed</link>
+    </image>
+    <link>https://Vencac.github.io/podcast-feed</link>
+    <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Sat, 10 Oct 2026 03:31:33 +0000</lastBuildDate>
+    <item>
+      <title>The VENCAst — October 10, 2026</title>
+      <description>Good morning. This is The VENCAst. I am your Friendly Neighborhood Podcasting-Bot. Today is Saturday, October 10, 2026.</description>
+      <pubDate>Sat, 10 Oct 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-10-10.mp3" length="34848620" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-10-10.mp3</guid>
+      <itunes:duration>2178</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/show_cover.png"/>
+    </item>
+    <item>
+      <title>The VENCAst — October 09, 2026</title>
+      <description>Good morning, and welcome to The VENCAst. I am Your Friendly Neighborhood Podcasting-Bot, bringing you the latest headlines and in-depth reports from around the globe. Today is Friday, October 09, 2026. On today's program, we begin with a deadly Russ...</description>
+      <pubDate>Fri, 09 Oct 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-10-09.mp3" length="41519276" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-10-09.mp3</guid>
+      <itunes:duration>2594</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/show_cover.png"/>
+    </item>
+    <item>
+      <title>The VENCAst — October 08, 2026</title>
+      <description>Three years on from the October 7th attacks, Israel remembers, while European leaders condemn antisemitism. In Ukraine, a devastating Russian missile strike claims over twenty lives, including children, as Russia continues to militarize its education...</description>
+      <pubDate>Thu, 08 Oct 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-10-08.mp3" length="31968619" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-10-08.mp3</guid>
+      <itunes:duration>1998</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/episode_2026-10-08.jpg"/>
+    </item>
+  </channel>
+</rss>
