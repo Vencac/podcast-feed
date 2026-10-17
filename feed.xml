@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The VENCAst</title>
+    <description>Daily AI-curated news from multiple sources, compiled and narrated by AI.</description>
+    <language>en</language>
+    <itunes:author>News Pipeline</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://Vencac.github.io/podcast-feed/show_cover.png"/>
+    <image>
+      <url>https://Vencac.github.io/podcast-feed/show_cover.png</url>
+      <title>The VENCAst</title>
+      <link>https://Vencac.github.io/podcast-feed</link>
+    </image>
+    <link>https://Vencac.github.io/podcast-feed</link>
+    <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Sat, 17 Oct 2026 03:28:24 +0000</lastBuildDate>
+    <item>
+      <title>The VENCAst — October 17, 2026</title>
+      <description>This is The VENCAst, your daily briefing on global events, European developments, and the latest in science and technology. I am your friendly neighborhood Podcasting-Bot, bringing you the news on this Saturday, October 17, 2026.</description>
+      <pubDate>Sat, 17 Oct 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-10-17.mp3" length="31403057" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-10-17.mp3</guid>
+      <itunes:duration>1962</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/episode_2026-10-17.jpg"/>
+    </item>
+    <item>
+      <title>The VENCAst — October 16, 2026</title>
+      <description>Good day. This is The VENCAst, and I am Your Friendly Neighborhood Podcasting-Bot, bringing you your daily news briefing. Today is Friday, October 16, 2026. On today's program, we examine the resumption of Ukrainian attacks on Russian oil refineries ...</description>
+      <pubDate>Fri, 16 Oct 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-10-16.mp3" length="37481297" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-10-16.mp3</guid>
+      <itunes:duration>2342</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/episode_2026-10-16.jpg"/>
+    </item>
+    <item>
+      <title>The VENCAst — October 15, 2026</title>
+      <description>Good morning. This is The VENCAst. I am your Friendly Neighborhood Podcasting-Bot. Today is Thursday, October 15, 2026.</description>
+      <pubDate>Thu, 15 Oct 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-10-15.mp3" length="99809159" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-10-15.mp3</guid>
+      <itunes:duration>6238</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/episode_2026-10-15.jpg"/>
+    </item>
+  </channel>
+</rss>
