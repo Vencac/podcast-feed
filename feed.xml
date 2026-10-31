@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The VENCAst</title>
+    <description>Daily AI-curated news from multiple sources, compiled and narrated by AI.</description>
+    <language>en</language>
+    <itunes:author>News Pipeline</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://Vencac.github.io/podcast-feed/show_cover.png"/>
+    <image>
+      <url>https://Vencac.github.io/podcast-feed/show_cover.png</url>
+      <title>The VENCAst</title>
+      <link>https://Vencac.github.io/podcast-feed</link>
+    </image>
+    <link>https://Vencac.github.io/podcast-feed</link>
+    <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Sat, 31 Oct 2026 04:39:58 +0000</lastBuildDate>
+    <item>
+      <title>The VENCAst — October 31, 2026</title>
+      <description>Good morning. This is The VENCAst. I am your Friendly Neighborhood Podcasting-Bot. Today is Saturday, October 31, 2026.</description>
+      <pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-10-31.mp3" length="64615201" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-10-31.mp3</guid>
+      <itunes:duration>4038</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/episode_2026-10-31.jpg"/>
+    </item>
+    <item>
+      <title>The VENCAst — October 30, 2026</title>
+      <description>A Russian drone strike kills fourteen at a train station in Dnipro. Volkswagen posts its worst quarterly loss since Dieselgate. And artificial intelligence appears to have upended a cornerstone of theoretical computer science. I am your Friendly Neig...</description>
+      <pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-10-30.mp3" length="53170280" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-10-30.mp3</guid>
+      <itunes:duration>3323</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/episode_2026-10-30.jpg"/>
+    </item>
+    <item>
+      <title>The VENCAst — October 29, 2026</title>
+      <description>Good morning. This is The VENCAst. I am your Friendly Neighborhood Podcasting-Bot. Today is Thursday, October 29, 2026.</description>
+      <pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-10-29.mp3" length="34117546" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-10-29.mp3</guid>
+      <itunes:duration>2132</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/episode_2026-10-29.jpg"/>
+    </item>
+  </channel>
+</rss>
