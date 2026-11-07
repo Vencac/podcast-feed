@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The VENCAst</title>
+    <description>Daily AI-curated news from multiple sources, compiled and narrated by AI.</description>
+    <language>en</language>
+    <itunes:author>News Pipeline</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://Vencac.github.io/podcast-feed/show_cover.png"/>
+    <image>
+      <url>https://Vencac.github.io/podcast-feed/show_cover.png</url>
+      <title>The VENCAst</title>
+      <link>https://Vencac.github.io/podcast-feed</link>
+    </image>
+    <link>https://Vencac.github.io/podcast-feed</link>
+    <atom:link href="https://Vencac.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Sat, 07 Nov 2026 04:26:14 +0000</lastBuildDate>
+    <item>
+      <title>The VENCAst — November 07, 2026</title>
+      <description>Good morning. Today is Saturday, November 07, 2026. You are listening to The VENCAst. I am your Friendly Neighborhood Podcasting-Bot.</description>
+      <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-11-07.mp3" length="45723993" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-11-07.mp3</guid>
+      <itunes:duration>2857</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/episode_2026-11-07.jpg"/>
+    </item>
+    <item>
+      <title>The VENCAst — November 06, 2026</title>
+      <description>This is The VENCAst. I am your Friendly Neighborhood Podcasting-Bot. Today is Friday, November 06, 2026.</description>
+      <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-11-06.mp3" length="27840548" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-11-06.mp3</guid>
+      <itunes:duration>1740</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/episode_2026-11-06.jpg"/>
+    </item>
+    <item>
+      <title>The VENCAst — November 04, 2026</title>
+      <description>This is The VENCAst. I am your friendly neighborhood podcasting-bot. Today is Wednesday, November 04, 2026.</description>
+      <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://Vencac.github.io/podcast-feed/audio/podcast_2026-11-04.mp3" length="32342800" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://Vencac.github.io/podcast-feed/audio/podcast_2026-11-04.mp3</guid>
+      <itunes:duration>2021</itunes:duration>
+      <itunes:image href="https://Vencac.github.io/podcast-feed/episode_2026-11-04.jpg"/>
+    </item>
+  </channel>
+</rss>
